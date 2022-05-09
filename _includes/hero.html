@@ -1,0 +1,34 @@
+<!-- begin hero -->
+<div class="container">
+  <div class="row">
+    <div class="col col-12">
+      {% if site.hero.image %}
+      <section class="hero">
+        <div class="hero__inner">
+          <div class="hero__image">
+            <img src="{{site.baseurl}}{{site.hero.image}}" alt="{{site.hero.title}}">
+          </div>
+          <div class="hero__content">
+            <h1 class="hero__title">{{site.hero.title}}</h1>
+            <p class="hero__desc">{{site.hero.description}}</p>
+          </div>
+        </div>
+      </section>
+      {% else %}
+      <section class="hero-without-image">
+        <div class="hero-inner">
+          <div class="hero-content">
+            <h1 class="hero__title">{{site.hero.title}}</h1>
+            <p class="hero__desc">{{site.hero.description}}</p>
+            <p style="margin-top:2em;">
+              <a class="github-button" href="https://github.com/rufus31415" data-size="large" data-show-count="true" aria-label="Follow @rufus31415 on GitHub">Follow @rufus31415</a>
+              <a href="https://twitter.com/rufus31415?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="true">Follow @rufus31415</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </p>
+            </div>
+        </div>
+      </section>
+      {% endif %}
+    </div>
+  </div>
+</div>
+<!-- begin hero -->
