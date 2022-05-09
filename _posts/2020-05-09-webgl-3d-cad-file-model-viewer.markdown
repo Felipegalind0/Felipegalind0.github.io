@@ -5,13 +5,13 @@ date:   2020-05-09
 image:  '/images/WebGL-3D-CAD-model-viewer.jpg'
 tags:   WebGL WebXR 3D Javascript
 hn_id: 23141506
-hn_link: https://rufus31415.github.io/sandbox/3d-viewer/
+hn_link: https://Felipegalind0.github.io/sandbox/3d-viewer/
 repo: react-webgl-3d-viewer-demo
 ---
 
 This 3D viewer is purely made of javascript that runs locally on your browser. It allows you to load 45+ 3D model formats.
 
-Demo : [https://rufus31415.github.io/sandbox/3d-viewer](https://rufus31415.github.io/sandbox/3d-viewer){:target="_blank"}
+Demo : [https://Felipegalind0.github.io/sandbox/3d-viewer](https://Felipegalind0.github.io/sandbox/3d-viewer){:target="_blank"}
 
 It is based on WebGL and WebAssembly technologies as well as the Unity 3D rendering engine and the Assimp library. It also relies on a lot of code I wrote myself.
 
@@ -29,7 +29,7 @@ Unfortunately, I can't publish the code that decodes 3D formats because I had to
 
 You can browse the list of supported formats on the right. The long text is often taken from Wikipedia. The 3D models come from the free models of Assimp or from models made by myself.
 
-You can also load your own 3D models by browsing your disk or by pointing to a url. If one of your models doesn't load, could you email it to me at [rufus31415@gmail.com](mailto:rufus31415@gmail.com) for debug purposes ?
+You can also load your own 3D models by browsing your disk or by pointing to a url. If one of your models doesn't load, could you email it to me at [Felipegalind0@gmail.com](mailto:Felipegalind0@gmail.com) for debug purposes ?
 
 # Supported formats
 Here are the supported formats :

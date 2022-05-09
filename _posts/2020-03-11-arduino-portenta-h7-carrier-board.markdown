@@ -4,7 +4,7 @@ title:  Arduino Portenta H7 development board
 date:   2020-03-11
 image:  '/images/arduino-portenta-h7-carrier-board.jpg'
 tags:   Arduino
-twitter: <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I just got my <a href="https://twitter.com/arduino?ref_src=twsrc%5Etfw">@arduino</a> PRO Portenta H7. I&#39;m soldering the prototype board ! 🤓<a href="https://t.co/7FyBy4kQkR">https://t.co/7FyBy4kQkR</a> <a href="https://t.co/w6h2YKjABg">pic.twitter.com/w6h2YKjABg</a></p>&mdash; Florent (@rufus31415) <a href="https://twitter.com/rufus31415/status/1273517717941780481?ref_src=twsrc%5Etfw">June 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+twitter: <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I just got my <a href="https://twitter.com/arduino?ref_src=twsrc%5Etfw">@arduino</a> PRO Portenta H7. I&#39;m soldering the prototype board ! 🤓<a href="https://t.co/7FyBy4kQkR">https://t.co/7FyBy4kQkR</a> <a href="https://t.co/w6h2YKjABg">pic.twitter.com/w6h2YKjABg</a></p>&mdash; Florent (@Felipegalind0) <a href="https://twitter.com/Felipegalind0/status/1273517717941780481?ref_src=twsrc%5Etfw">June 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 repo: arduino-pro-portenta-h7-carrier-board
 ---
 
@@ -14,29 +14,29 @@ This project is an Open Source hardware board with spring terminal blocks that e
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" src="https://raw.githubusercontent.com/Rufus31415/arduino-pro-portenta-h7-carrier-board/master/images/photo-view-with-board.jpg"> |  <img width="1604" src="https://raw.githubusercontent.com/Rufus31415/arduino-pro-portenta-h7-carrier-board/master/images/photo-view-with-board.png">|<img width="1604" src="https://raw.githubusercontent.com/Rufus31415/arduino-pro-portenta-h7-carrier-board/master/images/pcb.png">|
+|<img width="1604" src="https://raw.githubusercontent.com/Felipegalind0/arduino-pro-portenta-h7-carrier-board/master/images/photo-view-with-board.jpg"> |  <img width="1604" src="https://raw.githubusercontent.com/Felipegalind0/arduino-pro-portenta-h7-carrier-board/master/images/photo-view-with-board.png">|<img width="1604" src="https://raw.githubusercontent.com/Felipegalind0/arduino-pro-portenta-h7-carrier-board/master/images/pcb.png">|
 
 
 
 
 # Arduino Uno shield compatible 👍
 
-![Arduino PRO Portenta H7 Carrier Board](https://raw.githubusercontent.com/Rufus31415/arduino-pro-portenta-h7-carrier-board/master/images/photo-view-with-board-and-shield.png)
+![Arduino PRO Portenta H7 Carrier Board](https://raw.githubusercontent.com/Felipegalind0/arduino-pro-portenta-h7-carrier-board/master/images/photo-view-with-board-and-shield.png)
 
 # Download schematics and PCB 🤓
-- [Altium](https://raw.githubusercontent.com/Rufus31415/arduino-pro-portenta-h7-carrier-board/master/Altium)
-- [Sources EasyEAD](https://raw.githubusercontent.com/Rufus31415/arduino-pro-portenta-h7-carrier-board/master/EasyEAD)
-- Online EasyEDA : [https://easyeda.com/Rufus31415/sheetshield](https://easyeda.com/Rufus31415/sheetshield)
+- [Altium](https://raw.githubusercontent.com/Felipegalind0/arduino-pro-portenta-h7-carrier-board/master/Altium)
+- [Sources EasyEAD](https://raw.githubusercontent.com/Felipegalind0/arduino-pro-portenta-h7-carrier-board/master/EasyEAD)
+- Online EasyEDA : [https://easyeda.com/Felipegalind0/sheetshield](https://easyeda.com/Felipegalind0/sheetshield)
 
 
-![Arduino PRO Portenta H7 Carrier Board Schematics](https://raw.githubusercontent.com/Rufus31415/arduino-pro-portenta-h7-carrier-board/master/images/schematics.svg)
+![Arduino PRO Portenta H7 Carrier Board Schematics](https://raw.githubusercontent.com/Felipegalind0/arduino-pro-portenta-h7-carrier-board/master/images/schematics.svg)
 
 
 # Components 😺
 
 | | |
 |:-------------------------:|:-------------------------:|
-|<img width="1604" src="https://raw.githubusercontent.com/Rufus31415/arduino-pro-portenta-h7-carrier-board/master/images/components.png"> |  <img width="1604" src="https://raw.githubusercontent.com/Rufus31415/arduino-pro-portenta-h7-carrier-board/master/images/photo-view.jpg">|
+|<img width="1604" src="https://raw.githubusercontent.com/Felipegalind0/arduino-pro-portenta-h7-carrier-board/master/images/components.png"> |  <img width="1604" src="https://raw.githubusercontent.com/Felipegalind0/arduino-pro-portenta-h7-carrier-board/master/images/photo-view.jpg">|
 
 
 ## Bill of material
@@ -61,12 +61,12 @@ TOTAL for 1 board : ~$8
 Arduino PRO ([https://store.arduino.cc/portenta-h7](https://store.arduino.cc/portenta-h7)) is a new Arduino MKR board with dual core processor, USB-C, Display port, Ethernet, Wifi, Bluetooth, ... It can run Arduino Sketches, Javascript, Python or TensorFlow models.
 It has two 80 pins connectors. All pins are available on this carrier board.
 
-<img src="https://raw.githubusercontent.com/Rufus31415/arduino-pro-portenta-h7-carrier-board/master/images/portenta-h7-top.jpg" alt="Arduino PRO Portenta H7 Top" width="40%"/>
+<img src="https://raw.githubusercontent.com/Felipegalind0/arduino-pro-portenta-h7-carrier-board/master/images/portenta-h7-top.jpg" alt="Arduino PRO Portenta H7 Top" width="40%"/>
 
 
 # License: MIT 😘
 
-© [Rufus31415](https://rufus31415.github.io)
+© [Felipegalind0](https://Felipegalind0.github.io)
 
-See the [license file](https://github.com/Rufus31415/arduino-pro-portenta-h7-carrier-board/blob/master/LICENSE) for details.
+See the [license file](https://github.com/Felipegalind0/arduino-pro-portenta-h7-carrier-board/blob/master/LICENSE) for details.
 

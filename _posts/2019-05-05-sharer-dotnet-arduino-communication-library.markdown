@@ -14,10 +14,10 @@ Sharer is both a <b>.NET and an Arduino Library</b>. It allows a desktop applica
 Sharer has initially been developped for the [Ballcuber project](https://ballcuber.github.io){:target="_blank"}, but it is now a standalone library ;).
 
 <p align="center">
-	<a href="https://github.com/Rufus31415/Sharer/releases">
+	<a href="https://github.com/Felipegalind0/Sharer/releases">
 		<img alt="Download arduino library and examples" src="https://img.shields.io/badge/▼-Download%20Arduino%20library%20and%20examples-blue?logo=arduino&style=for-the-badge" />
 	</a>
-	<a href="https://github.com/Rufus31415/Sharer.NET/releases">
+	<a href="https://github.com/Felipegalind0/Sharer.NET/releases">
 		<img alt="Download .NET library and example" src="https://img.shields.io/badge/▼-Download%20.NET%20Library%20and%20examples-green?logo=c%20sharp&style=for-the-badge" />
 	</a>
 	<br/>
@@ -147,18 +147,18 @@ void loop() {
 # Get Started 💪
 ## Sources
 Sharer is divided into 2 repositories, one for the Arduino sources and the other for .NET sources
-- Arduino : [https://github.com/Rufus31415/Sharer](https://github.com/Rufus31415/Sharer){:target="_blank"}
-- .NET : [https://github.com/Rufus31415/Sharer.NET](https://github.com/Rufus31415/Sharer.NET){:target="_blank"}
+- Arduino : [https://github.com/Felipegalind0/Sharer](https://github.com/Felipegalind0/Sharer){:target="_blank"}
+- .NET : [https://github.com/Felipegalind0/Sharer.NET](https://github.com/Felipegalind0/Sharer.NET){:target="_blank"}
 
 ## Download and install Arduino library
 ### Library manager
 Sharer is available in the library manager available in the menu ```Tools/Manage Libraries...```. Just look for Sharer and install the latest version.
 
-![Sharer in library manager](https://raw.githubusercontent.com/Rufus31415/Sharer/master/Resources/arduino-package-manager.png)
+![Sharer in library manager](https://raw.githubusercontent.com/Felipegalind0/Sharer/master/Resources/arduino-package-manager.png)
 
 
 ### Direct download
-Please download the Sharer library archive : https://github.com/Rufus31415/Sharer/releases/latest/download/Sharer.zip
+Please download the Sharer library archive : https://github.com/Felipegalind0/Sharer/releases/latest/download/Sharer.zip
 
 Sharer has been tested with Arduino UNO, NANO, MEGA and DUE. It may work with other boards.
 Extract so that you get a Sharer directory in your Arduino "libraries" directory : ```C:\Program Files (x86)\Arduino\libraries\Sharer```
@@ -174,7 +174,7 @@ Use this command line to install it with you package manager :
 ```Install-Package Sharer```
 
 ### Download .NET assembly
-Sharer.dll assembly can be downloaded here : [https://github.com/Rufus31415/Sharer.net/releases/latest/download/SharerAsssemblies.zip](https://github.com/Rufus31415/Sharer.net/releases/latest/download/SharerAsssemblies.zip)
+Sharer.dll assembly can be downloaded here : [https://github.com/Felipegalind0/Sharer.net/releases/latest/download/SharerAsssemblies.zip](https://github.com/Felipegalind0/Sharer.net/releases/latest/download/SharerAsssemblies.zip)
 
 This archive contains the nuget package Sharer.nupkg and Sharer.dll compiled in AnyCPU Release for the following targets:
 - NET Framework 3.5, 4.0, 4.5.1, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2, 4.8
@@ -183,24 +183,24 @@ This archive contains the nuget package Sharer.nupkg and Sharer.dll compiled in 
 
 ### Try examples
 #### Windows Forms
-Windows Forms example requires .NET Framework 3.5. It can be downloaded here : [https://github.com/Rufus31415/Sharer.net/releases/latest/download/SharerWindowsFormsExample.zip](https://github.com/Rufus31415/Sharer.net/releases/latest/download/SharerWindowsFormsExample.zip)
+Windows Forms example requires .NET Framework 3.5. It can be downloaded here : [https://github.com/Felipegalind0/Sharer.net/releases/latest/download/SharerWindowsFormsExample.zip](https://github.com/Felipegalind0/Sharer.net/releases/latest/download/SharerWindowsFormsExample.zip)
 
-![Winforms example](https://raw.githubusercontent.com/Rufus31415/Sharer.NET/master/Resources/winforms.png)
+![Winforms example](https://raw.githubusercontent.com/Felipegalind0/Sharer.NET/master/Resources/winforms.png)
 
 #### Console cross-plateform example
 The console example run with .NET Core 3.0. But you don't need any runtime to execute it. The standalone console examples are available here :
-- [Windows 64 bits](https://github.com/Rufus31415/Sharer.net/releases/latest/download/SharerConsoleExample_win-x64.zip)
-- [Windows 32 bits](https://github.com/Rufus31415/Sharer.net/releases/latest/download/SharerConsoleExample_win-x86.zip)
-- [Windows ARM (for example Windows IOT for Raspberry PI)](https://github.com/Rufus31415/Sharer.net/releases/latest/download/SharerConsoleExample_win-arm.zip)
-- [Linux ARM (for example Raspbian for Raspberry PI)](https://github.com/Rufus31415/Sharer.net/releases/latest/download/SharerConsoleExample_linux-arm.zip)
-- [Linux 64 bits](https://github.com/Rufus31415/Sharer.net/releases/latest/download/SharerConsoleExample_linux-x64.zip)
-- [Mac OS X](https://github.com/Rufus31415/Sharer.net/releases/latest/download/SharerConsoleExample_osx-x64.zip)
+- [Windows 64 bits](https://github.com/Felipegalind0/Sharer.net/releases/latest/download/SharerConsoleExample_win-x64.zip)
+- [Windows 32 bits](https://github.com/Felipegalind0/Sharer.net/releases/latest/download/SharerConsoleExample_win-x86.zip)
+- [Windows ARM (for example Windows IOT for Raspberry PI)](https://github.com/Felipegalind0/Sharer.net/releases/latest/download/SharerConsoleExample_win-arm.zip)
+- [Linux ARM (for example Raspbian for Raspberry PI)](https://github.com/Felipegalind0/Sharer.net/releases/latest/download/SharerConsoleExample_linux-arm.zip)
+- [Linux 64 bits](https://github.com/Felipegalind0/Sharer.net/releases/latest/download/SharerConsoleExample_linux-x64.zip)
+- [Mac OS X](https://github.com/Felipegalind0/Sharer.net/releases/latest/download/SharerConsoleExample_osx-x64.zip)
 
-![Console example](https://raw.githubusercontent.com/Rufus31415/Sharer.NET/master/Resources/console.gif)
+![Console example](https://raw.githubusercontent.com/Felipegalind0/Sharer.NET/master/Resources/console.gif)
 
 # License: MIT 😘
-© Rufus31415
-See the [license file](https://github.com/Rufus31415/Sharer.NET/blob/master/LICENSE) for details.
+© Felipegalind0
+See the [license file](https://github.com/Felipegalind0/Sharer.NET/blob/master/LICENSE) for details.
 
 
 # Usage 🛠️
@@ -373,7 +373,7 @@ You can change the limits of Sharer by editing the constants of file ```C:\Progr
 ```
 
 ## .NET usage
-You can find here the full documentation of Sharer.NET : [/Sharer.NET/Sharer.NET.Documentation.md](https://github.com/Rufus31415/Sharer.NET/blob/master/Sharer.NET/Sharer.NET.Documentation.md).
+You can find here the full documentation of Sharer.NET : [/Sharer.NET/Sharer.NET.Documentation.md](https://github.com/Felipegalind0/Sharer.NET/blob/master/Sharer.NET/Sharer.NET.Documentation.md).
 
 # Performances 🚀
 A command takes less than 10ms to be called on a Arduino Uno (command + response) at 115200 bauds. The protocole is optimized in order not to have strings to decode, just a binary stream to interprete, byte by byte.
@@ -382,7 +382,7 @@ Memory footprint has been optimized by using F() macro and PROGMEM to store name
 # How it works 🤯
 Sharer uses a unique protocole called the Sharer Protocole. Every serial commands received by the Arduino are interprated.
 
-![Sharer](https://raw.githubusercontent.com/Rufus31415/Sharer.NET/master/Resources/RemoteFunctionCall.png)
+![Sharer](https://raw.githubusercontent.com/Felipegalind0/Sharer.NET/master/Resources/RemoteFunctionCall.png)
 
 
 # Improvement ideas and contributions 🧠
