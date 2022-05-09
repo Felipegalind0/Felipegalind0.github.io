@@ -34,13 +34,13 @@ var Module=typeof Module!=="undefined"?Module:{};//                             
 //
 // SimpleWebXR - Unity
 //
-// https://github.com/Rufus31415/Simple-WebXR-Unity
+// https://github.com/Felipegalind0/Simple-WebXR-Unity
 //
 // -----------------------------------------------------------------------------
 //
 // MIT License
 //
-// Copyright(c) 2020 Florent GIRAUD (Rufus31415)
+// Copyright(c) 2020 Florent GIRAUD (Felipegalind0)
 //
 // Permission is hereby granted, free of charge, to any person obtaining a copy
 // of this software and associated documentation files(the "Software"), to deal

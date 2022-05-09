@@ -5,29 +5,29 @@ date:   2020-05-17
 image:  '/images/WebXR-demo-app-built-with-Unity-and-MRTK.jpg'
 tags:   WebGL WebXR Unity MRTK Javascript
 hn_id: 23235013
-hn_link: https://rufus31415.github.io/webxr-webgl-demo-app-built-with-unity-and-mrtk.html
+hn_link: https://Felipegalind0.github.io/webxr-webgl-demo-app-built-with-unity-and-mrtk.html
 repo: Simple-WebXR-Unity
 ---
 
 EDIT :
 
-⚠️⚠️⚠️ This article describes a test, please visit the official repository : [SimpleWebXR for Unity](https://github.com/Rufus31415/Simple-WebXR-Unity) ⚠️⚠️⚠️
+⚠️⚠️⚠️ This article describes a test, please visit the official repository : [SimpleWebXR for Unity](https://github.com/Felipegalind0/Simple-WebXR-Unity) ⚠️⚠️⚠️
 
 
 
 This article describes how I add the WebXR target to the MRTK, allowing to do augmented reality in the web browser. This project is a proof of concept and not an industrial implementation ! I developed this demonstration over a long weekend in confinement.
 
-Associated Github repository : [https://github.com/Rufus31415/MixedRealityToolkit-Unity-WebXR](https://github.com/Rufus31415/MixedRealityToolkit-Unity-WebXR/)
+Associated Github repository : [https://github.com/Felipegalind0/MixedRealityToolkit-Unity-WebXR](https://github.com/Felipegalind0/MixedRealityToolkit-Unity-WebXR/)
 
-**Live demo** (please use [WebXR Viewer browser](https://apps.apple.com/us/app/webxr-viewer/id1295998056){:target="_blank"} app on iOS) : [https://rufus31415.github.io/sandbox/webxr-hand-interaction/](https://rufus31415.github.io/sandbox/webxr-hand-interaction/)
+**Live demo** (please use [WebXR Viewer browser](https://apps.apple.com/us/app/webxr-viewer/id1295998056){:target="_blank"} app on iOS) : [https://Felipegalind0.github.io/sandbox/webxr-hand-interaction/](https://Felipegalind0.github.io/sandbox/webxr-hand-interaction/)
 
 <p><iframe src="https://www.youtube.com/embed/msORgnO6R9U?cc_load_policy=1&rel=0" frameborder="0" allowfullscreen></iframe></p>
 
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" src="https://raw.githubusercontent.com/Rufus31415/MixedRealityToolkit-Unity-WebXR/mrtk_webxr_prototype/Videos/move.gif"> |  <img width="1604" src="https://raw.githubusercontent.com/Rufus31415/MixedRealityToolkit-Unity-WebXR/mrtk_webxr_prototype/Videos/rotate.gif">|<img width="1604" src="https://raw.githubusercontent.com/Rufus31415/MixedRealityToolkit-Unity-WebXR/mrtk_webxr_prototype/Videos/scroll.gif">|
-|<img width="1604" src="https://raw.githubusercontent.com/Rufus31415/MixedRealityToolkit-Unity-WebXR/mrtk_webxr_prototype/Videos/slider.gif">  |  <img width="1604" src="https://raw.githubusercontent.com/Rufus31415/MixedRealityToolkit-Unity-WebXR/mrtk_webxr_prototype/Videos/piano.gif">|<img width="1604" src="https://raw.githubusercontent.com/Rufus31415/MixedRealityToolkit-Unity-WebXR/mrtk_webxr_prototype/Videos/world-mapping.gif">|
+|<img width="1604" src="https://raw.githubusercontent.com/Felipegalind0/MixedRealityToolkit-Unity-WebXR/mrtk_webxr_prototype/Videos/move.gif"> |  <img width="1604" src="https://raw.githubusercontent.com/Felipegalind0/MixedRealityToolkit-Unity-WebXR/mrtk_webxr_prototype/Videos/rotate.gif">|<img width="1604" src="https://raw.githubusercontent.com/Felipegalind0/MixedRealityToolkit-Unity-WebXR/mrtk_webxr_prototype/Videos/scroll.gif">|
+|<img width="1604" src="https://raw.githubusercontent.com/Felipegalind0/MixedRealityToolkit-Unity-WebXR/mrtk_webxr_prototype/Videos/slider.gif">  |  <img width="1604" src="https://raw.githubusercontent.com/Felipegalind0/MixedRealityToolkit-Unity-WebXR/mrtk_webxr_prototype/Videos/piano.gif">|<img width="1604" src="https://raw.githubusercontent.com/Felipegalind0/MixedRealityToolkit-Unity-WebXR/mrtk_webxr_prototype/Videos/world-mapping.gif">|
 
 
 # What is the Mixed Reality Toolkit ?
@@ -70,16 +70,16 @@ Moreover, according to the Mozilla examples, I use [Three.js](https://threejs.or
 
 # Touch screen
 
-A new Input System Profile has been created to support multitouch as well as the mouse pointer. See [MyMixedRealityInputSystemProfile.asset](https://github.com/Rufus31415/MixedRealityToolkit-Unity-WebXR/blob/mrtk_webxr_prototype/Assets/MRTK/SDK/Profiles/HoloLens2/MyMixedRealityInputSystemProfile.asset){:target="_blank"} and [MyMixedRealityHandTrackingProfile.asset](https://github.com/Rufus31415/MixedRealityToolkit-Unity-WebXR/blob/mrtk_webxr_prototype/Assets/MRTK/SDK/Profiles/HoloLens2/MyMixedRealityHandTrackingProfile.asset){:target="_blank"}.
+A new Input System Profile has been created to support multitouch as well as the mouse pointer. See [MyMixedRealityInputSystemProfile.asset](https://github.com/Felipegalind0/MixedRealityToolkit-Unity-WebXR/blob/mrtk_webxr_prototype/Assets/MRTK/SDK/Profiles/HoloLens2/MyMixedRealityInputSystemProfile.asset){:target="_blank"} and [MyMixedRealityHandTrackingProfile.asset](https://github.com/Felipegalind0/MixedRealityToolkit-Unity-WebXR/blob/mrtk_webxr_prototype/Assets/MRTK/SDK/Profiles/HoloLens2/MyMixedRealityHandTrackingProfile.asset){:target="_blank"}.
 
 
 # WebGL canvas transparent background
 
 The WebGL canvas is placed on top of the video canvas. The black background normally generated by Unity must be made transparent in order to view the video behind the holograms.
 
-For this, a new [Camera Profile](https://github.com/Rufus31415/MixedRealityToolkit-Unity-WebXR/blob/mrtk_webxr_prototype/Assets/MixedRealityToolkit.Generated/CustomProfiles/MyMixedRealityCameraProfile.asset){:target="_blank"} has been created with a solid color (black background) and 100% transparency.
+For this, a new [Camera Profile](https://github.com/Felipegalind0/MixedRealityToolkit-Unity-WebXR/blob/mrtk_webxr_prototype/Assets/MixedRealityToolkit.Generated/CustomProfiles/MyMixedRealityCameraProfile.asset){:target="_blank"} has been created with a solid color (black background) and 100% transparency.
 
-In addition, a [jslib plugin](https://github.com/Rufus31415/MixedRealityToolkit-Unity-WebXR/blob/mrtk_webxr_prototype/Assets/WebXR/TransparentBackground.jslib){:target="_blank"} has been written to apply this transparency which is not supported by default in WebGL.
+In addition, a [jslib plugin](https://github.com/Felipegalind0/MixedRealityToolkit-Unity-WebXR/blob/mrtk_webxr_prototype/Assets/WebXR/TransparentBackground.jslib){:target="_blank"} has been written to apply this transparency which is not supported by default in WebGL.
 
 ``` javascript
 var LibraryGLClear = {
@@ -98,14 +98,14 @@ Finally, after generation, the ```Build/build.json``` file must be modified to r
 
 
 # HTML
-A [WebGL export template](https://github.com/Rufus31415/MixedRealityToolkit-Unity-WebXR/tree/mrtk_webxr_prototype/Assets/WebGLTemplates/WebXR){:target="_blank"} is used to generate the web page to get the final application. This template was inspired by the [World Sensing](https://github.com/mozilla/webxr-polyfill/blob/master/examples/sensing/index.html){:target="_blank"} example from Mozilla. It manages the display of the video, the start of the WebXR session and the display in green of the mesh from the world scanning. I added on the video the WebGL canvas generated by Unity.
+A [WebGL export template](https://github.com/Felipegalind0/MixedRealityToolkit-Unity-WebXR/tree/mrtk_webxr_prototype/Assets/WebGLTemplates/WebXR){:target="_blank"} is used to generate the web page to get the final application. This template was inspired by the [World Sensing](https://github.com/mozilla/webxr-polyfill/blob/master/examples/sensing/index.html){:target="_blank"} example from Mozilla. It manages the display of the video, the start of the WebXR session and the display in green of the mesh from the world scanning. I added on the video the WebGL canvas generated by Unity.
 
 
 # Communication between WebXR and Unity
 
 The position of the smartphone is in a Camera Three.js object. It is recovered in loop and transmitted to the Unity camera with the following code:
 
-[Index.html](https://github.com/Rufus31415/MixedRealityToolkit-Unity-WebXR/blob/06d50cbc4fc72e8bfead6bf00bd19511868e2c94/Assets/WebGLTemplates/WebXR/index.html#L61){:target="_blank"} :
+[Index.html](https://github.com/Felipegalind0/MixedRealityToolkit-Unity-WebXR/blob/06d50cbc4fc72e8bfead6bf00bd19511868e2c94/Assets/WebGLTemplates/WebXR/index.html#L61){:target="_blank"} :
 ``` javascript
 var pose = new THREE.Vector3();
 var quaternion = new THREE.Quaternion();
@@ -121,7 +121,7 @@ unityInstance.SendMessage("JSConnector", "setCameraTransform", msgStr); // send 
 ```
 
 
-[JSConnector.cs](https://github.com/Rufus31415/MixedRealityToolkit-Unity-WebXR/blob/mrtk_webxr_prototype/Assets/WebXR/JSConnector.cs){:target="_blank"} :
+[JSConnector.cs](https://github.com/Felipegalind0/MixedRealityToolkit-Unity-WebXR/blob/mrtk_webxr_prototype/Assets/WebXR/JSConnector.cs){:target="_blank"} :
 ``` cs
 public void setCameraTransform(string msgStr) {
 	var msg = JsonUtility.FromJson<JSCameraTransformMessage>(msgStr);
@@ -145,7 +145,7 @@ To be more efficient, the access to the WebXR API should be done in a jslib plug
 # Compilation
 
 WebGL compilation is performed by Unity using the [IL2CPP](https://docs.unity3d.com/Manual/IL2CPP.html) scripting backend then the [Emscripten](https://emscripten.org){:target="_blank"} WebAssembly compiler.
-Note that the [ARSessionOrigin.cs](https://github.com/Rufus31415/MixedRealityToolkit-Unity-WebXR/blob/mrtk_webxr_prototype/Library/PackageCache/com.unity.xr.arfoundation%401.5.0-preview.6/Runtime/AR/ARSessionOrigin.cs){:target="_blank"} file in the AR Foundation package was voluntarily committed because it includes modifications to be compilable in WebGL.
+Note that the [ARSessionOrigin.cs](https://github.com/Felipegalind0/MixedRealityToolkit-Unity-WebXR/blob/mrtk_webxr_prototype/Library/PackageCache/com.unity.xr.arfoundation%401.5.0-preview.6/Runtime/AR/ARSessionOrigin.cs){:target="_blank"} file in the AR Foundation package was voluntarily committed because it includes modifications to be compilable in WebGL.
 
 As mentioned above, after compilation, the Builb/build.json file must be modified for supporting transparency.
 
@@ -161,10 +161,10 @@ If you are using a browser other than XRViewer, you will get an error popup indi
 
 With another browser :
 
-![](https://raw.githubusercontent.com/Rufus31415/MixedRealityToolkit-Unity-WebXR/mrtk_webxr_prototype/Videos/desktop.gif)
+![](https://raw.githubusercontent.com/Felipegalind0/MixedRealityToolkit-Unity-WebXR/mrtk_webxr_prototype/Videos/desktop.gif)
 
 
 With XRViewer :
 
-![](https://raw.githubusercontent.com/Rufus31415/MixedRealityToolkit-Unity-WebXR/mrtk_webxr_prototype/Videos/piano.gif)
+![](https://raw.githubusercontent.com/Felipegalind0/MixedRealityToolkit-Unity-WebXR/mrtk_webxr_prototype/Videos/piano.gif)
 
