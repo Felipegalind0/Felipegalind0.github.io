@@ -11,7 +11,7 @@ github: https://github.com/Felipegalind0
 #-------------------------------
 # Author Settings
 author:
-  name: Florent GIRAUD
+  name: Felipe Galindo
   avatar: '/images/avatar.png'
 
 
@@ -19,7 +19,7 @@ author:
 # Hero Settings
 hero: 
   title: Welcome
-  description: Thoughts, stories, ideas, geeky projects.
+  description: Felipe Galind0's Website. Still a work in progress. Inspired on @Rufus31415 website. Thanks for making your code Open Source and letting me use it :)
   image: 
 
 
