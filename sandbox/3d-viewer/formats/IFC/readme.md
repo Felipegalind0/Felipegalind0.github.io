@@ -1,1 +1,0 @@
-The Industry Foundation Classes (IFC) data model is intended to describe architectural, building and construction industry data. 

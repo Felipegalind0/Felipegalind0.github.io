@@ -1,1 +1,0 @@
-TrueSpace was a commercial 3D computer graphics and animation software developed by Caligari Corporation, bought-out by Microsoft. As of May 2009, it was officially discontinued, but with some 'unofficial support' up to February 2010.
