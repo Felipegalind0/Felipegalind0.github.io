@@ -7,7 +7,10 @@ lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> dfb809a86308001c3b831bd4548673d7bddf02fd
 # Layout
 show_social: true         # show footer
 show_excerpts: false       # show article excerpts on the home page
@@ -17,20 +20,34 @@ show_sidebar: false        # show a sidebar instead of the usual header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
+<<<<<<< HEAD
   - {file: "index.md"}
   - {url: "/Felipegalind0_resume.pdf", title: CV}
   - {url: "http://UMN-VR.github.io", title: UMN-VR}
   - {file: "blog.md"}
 
+=======
+  - {file: "/Felipegalind0_resume.pdf", title: "CV", icon: home"}
+  - {file: "README.md"}
+>>>>>>> dfb809a86308001c3b831bd4548673d7bddf02fd
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:mailto:felipegalind0@outlook.com"}
   - {title: Github, icon: github, url: "https://github.com/Felipegalind0"}
+<<<<<<< HEAD
   - {title: Twitter, icon: twitter, url: "https://twitter.com/Felipegalind0"}
 
+=======
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/KathrynSchuler"}
+>>>>>>> dfb809a86308001c3b831bd4548673d7bddf02fd
 
 remote_theme: niklasbuschmann/contrast@v2.11
 
 plugins:
+<<<<<<< HEAD
   - jekyll-remote-theme
   - jekyll-feed
+=======
+ - jekyll-remote-theme
+ - jekyll-feed
+>>>>>>> dfb809a86308001c3b831bd4548673d7bddf02fd
