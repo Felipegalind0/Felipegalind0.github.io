@@ -4,20 +4,21 @@ title: ""
 ---
 
 # 👋 Hi, I’m a comercial drone pilot, master of photogrammetry & VR who builds & codes Open Source robots. 
-
 Cool Open Source Projects I've worked on: \
 [GoldyDogV7](https://github.com/umn-vr/goldydogv7) &nbsp; [RONALD360](https://github.com/Felipegalind0/RONALD360) &nbsp; [Insta360-Drone-Mount](https://github.com/Felipegalind0/Insta360-Drone-Mount) &nbsp; [Quest-2-App](https://github.com/UMN-VR/UMN-VR-Quest-2-App)
 
--🌐 Website : [https://felipegalind0.github.io](https://felipegalind0.github.io)
+-🌐 Website : **[felipegalind0.github.io](https://felipegalind0.github.io)** &nbsp; &nbsp; [umn-vr.github.io](https://umn-vr.github.io) &nbsp; &nbsp; [goldy.dog](https://goldy.dog)
 
--🎨 Polycam :[https://poly.cam/@Felipegalind0](https://poly.cam/@Felipegalind0)
+-🎨 Polycam :[poly.cam/@Felipegalind0](https://poly.cam/@Felipegalind0)
+
+-📚 Github :**[Github.com/Felipegalind0](https://github.com/Felipegalind0)** &nbsp; &nbsp; [Github.com/UMN-VR](https://github.com/UMN-VR)
 
 [![](https://github-readme-stats.vercel.app/api?username=Felipegalind0&show_icons=true)](https://github.com/Felipegalind0)
 
-- 👀 I’m interested in Drones, Photogrammetry Applications, WebXR Development in  Babylon.js and more. 
-- 🧑‍💻 Coding is my passion. I hate working with hardware, but I guess I'm ok at that too. 
+- 👀 I’m interested in Drones, Photogrammetry Applications, 360 videography, WebXR Development in Babylon.js, Unity, ROS, Python, SwiftUI, cpp, Inverse Kinematics & more. 
+-  🧑‍💻 Coding is my passion. I hate working with hardware, but I guess I'm ok at that too. 
 -  🙃I’m currently living in Minneapolis, and frankly I don't like it, Duluth is better. 
--  ⚡ Fun fact: I dropped a phone from the Golden Gate...
+-  ⚡ Fun fact: I dropped a phone from the Golden Gate, sometimes I'm not the brightest :/
 -  🇨🇴 I was born in Colombia and speak fluent spanish. 
 -  🇺🇸 I live in the states so I speak English, duh
 -  🇩🇪 My sister was learning French, I wanted to learn a third language to match her, and I met this cute girl who spoke german so i decided I was going to learn german and I did.(Sort of) 
@@ -27,7 +28,7 @@ Cool Open Source Projects I've worked on: \
 - 📖 I was working in a CS degree at UMN but they are broke and will only let me study for sticker price so probably switching schools. 
 
 
--📧 Mail : felipegalind0@outlook.com(prefered)
+-📧 Mail : **felipegalind0@outlook.com**(prefered) \
 (gali070@umn.edu, felipht@stanford.edu, gali1383@marshallschool.org.)
 
 -👾 Discord : FelipeGalind0#9289
@@ -35,7 +36,6 @@ Cool Open Source Projects I've worked on: \
 #### 📫 The best way to reach me is to send me an email. 
 
 I've been working on a CS degree at UMN for the past two years, I went to Marshall School & Stanford Summer Session 2019. I’m interested in Drones, Photogrammetry, WebXR Development in Babylon.js and VR Develoment in general. I designed my own [Robot Dog](https://github.com/UMN-VR/GoldyDogV7), and made a hobby of CADing [360 camera attachments for a Drone](https://github.com/Felipegalind0/Insta360-Drone-Mount), an [Omnidirectional Robot](https://github.com/Felipegalind0/RONALD360), among other things. I'm an early adopter of imersive tech, ever since I got my Gear VR I always fly with a VR headset and Beat Saber keeps me in shape. Looking to use my part 107 licence for more productive stuff so [send me an email](mailto:felipegalind0@outlook.com) if you want to work with me! If you're an admissions officer plz [poach me](mailto:felipegalind0@outlook.com) I can't aford UMN :( Looking for a Job at a company that aligns with my values and chalenges me to grow my skills, [send me an email](mailto:felipegalind0@outlook.com).
-
 
 ## Some of the things I have worked on:
 
