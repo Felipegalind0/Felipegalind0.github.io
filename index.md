@@ -39,25 +39,32 @@ I've been working on a CS degree at UMN for the past two years, I went to Marsha
 
 ## Some of the things I have worked on:
 
-Boston Dynamics inspired spotMicro robot:
-https://youtube.com/shorts/rc_Cyl-KfOw?feature=share
-https://youtu.be/Vl6J2ljAmZk
-![Env](Gifs/Blaze.gif)
+### Boston Dynamics inspired spotMicro robots:
+
+[![Env](Gifs/GoldyDogV7wInsta360.gif)](https://poly.cam/capture/2E7A09DC-651E-457D-BC65-34B380F1FFC4)\
+[![Env](Gifs/GoldyDogV7wInsta360CAD.gif)](https://collaborate.shapr3d.com/v/TyNZZo2E9wQ8442WcQJLR)\
+[![Env](Gifs/GoldyDogV7Stanford0.gif)](https://collaborate.shapr3d.com/v/TyNZZo2E9wQ8442WcQJLR)\
+[GoldyDogV7](https://github.com/umn-vr/goldydogv7)/
+
+[![Env](Gifs/Blaze.gif)](https://youtube.com/shorts/rc_Cyl-KfOw?feature=share)\
+[GoldyDogV4](https://github.com/umn-vr/goldydogv4)
+
 
 VR Photogrammetry Quest 2 App
-https://youtu.be/eQZTAWonZkg
-![Env](Gifs/schene.gif)
+
+[![Env](Gifs/schene.gif)](https://youtu.be/eQZTAWonZkg)
 
 Drone with custom firmware and Carbon Fiber Nylon mount carrying 360 camera.
-https://youtu.be/_vy5MKZzaGs
-![Env](Gifs/A2S.gif)
+
+[![Env](Gifs/A2S.gif)](https://youtu.be/_vy5MKZzaGs)
+[Insta360-Drone-Mount](https://github.com/Felipegalind0/Insta360-Drone-Mount)
 
 Fixed over 20 DJI Mini2's
 ![Env](Gifs/Mini2.gif) 
 
 Worked with CyberOps activism organizations. 
 
-And Much More...
+And Much More...\
 [FRCTeam4230](https://github.com/FRCTeam4230/MainBot-Code-2019)
 <!---
 Felipegalind0/Felipegalind0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
