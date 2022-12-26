@@ -52,12 +52,12 @@ I've been working on a CS degree at UMN for the past two years, I went to Marsha
 
 VR Photogrammetry Quest 2 App
 
-[![Env](Gifs/schene.gif)](https://youtu.be/eQZTAWonZkg)
+[![Env](Gifs/schene.gif)](https://youtu.be/eQZTAWonZkg)\
 
 Drone with custom firmware and Carbon Fiber Nylon mount carrying 360 camera.
 
-[![Env](Gifs/A2S.gif)](https://youtu.be/_vy5MKZzaGs)/
-[Insta360-Drone-Mount](https://github.com/Felipegalind0/Insta360-Drone-Mount)/
+[![Env](Gifs/A2S.gif)](https://youtu.be/_vy5MKZzaGs)\
+[Insta360-Drone-Mount](https://github.com/Felipegalind0/Insta360-Drone-Mount)\
 
 Fixed over 20 DJI Mini2's
 ![Env](Gifs/Mini2.gif) 
