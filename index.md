@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Felipegalind0's website"
+title: ""
 ---
 
 # 👋 Hi, I’m Felipe Galindo a comercial drone pilot, master of photogrammetry & VR who builds & codes Open Source robots. 
