@@ -1,3 +1,8 @@
+---
+layout: page
+title: ""
+---
+
 # 👋 Hi, I’m @Felipegalind0 a comercial drone pilot, master of photogrammetry & VR who builds & codes Open Source robots. 
 
 Cool Open Source Projects I've worked on: \
