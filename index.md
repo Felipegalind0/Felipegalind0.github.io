@@ -43,48 +43,32 @@ I've been working on a CS degree at UMN for the past two years, I went to Marsha
 
 [![Env](Gifs/GoldyDogV7wInsta360.gif)](https://poly.cam/capture/2E7A09DC-651E-457D-BC65-34B380F1FFC4)\
 [Click here to view GoldyDogV7 w/ Insta360 3D Model](https://poly.cam/capture/2E7A09DC-651E-457D-BC65-34B380F1FFC4)
+<br/>
 
 [![Env](Gifs/GoldyDogV7wInsta360CAD.gif)](https://collaborate.shapr3d.com/v/TyNZZo2E9wQ8442WcQJLR)\
 [Click here to view GoldyDogV7 w/ Insta360 CAD Model](https://collaborate.shapr3d.com/v/TyNZZo2E9wQ8442WcQJLR)
+<br/>
 
 [![Env](Gifs/GoldyDogV7Stanford0.gif)](https://github.com/umn-vr/goldydogv7)\
 [GoldyDogV7](https://github.com/umn-vr/goldydogv7)
-
+<br/>
 
 VR Photogrammetry Quest 2 App
 
-[![Env](Gifs/schene.gif)](https://youtu.be/eQZTAWonZkg) \
+[![Env](Gifs/schene.gif)](https://youtu.be/eQZTAWonZkg)\
+[Quest 2 Photogrammetry App](https://github.com/UMN-VR/UMN-VR-Quest-2-App)
+<br/>
 
 Drone with custom firmware and Carbon Fiber Nylon mount carrying 360 camera.
 
-[![Env](Gifs/A2S.gif)](https://youtu.be/_vy5MKZzaGs) \
-
-[Insta360-Drone-Mount](https://github.com/Felipegalind0/Insta360-Drone-Mount) \
-
-Fixed over 20 DJI Mini2's
-![Env](Gifs/Mini2.gif) 
-
-Worked with CyberOps activism organizations. 
+[![Env](Gifs/A2S.gif)](https://youtu.be/_vy5MKZzaGs)\
+[Insta360-Drone-Mount](https://github.com/Felipegalind0/Insta360-Drone-Mount)
+<br/>
 
 And Much More...\
+
 [FRCTeam4230](https://github.com/FRCTeam4230/MainBot-Code-2019)
 <!---
 Felipegalind0/Felipegalind0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-## ...
-
-- 🌲 We need to slowly, systematically, and carefully stop our reliance on non-renewable resources as a species. Climate change is real, if you deny it you haven't taken the time to read up on the science. It's also not realistic to stop using fossil fuels tomorrow, but not doing anything is the worst possible path. Business taxes are dumb, taxes on basic food items and groceries are too, not having a carbon tax is even dumber. 
--  💉 I'm not a doctor, but it really saddens me to see people refusing to take a life-saving preventative treatment that is statistically guaranteed to leave you with a better outcome than if you did not take a vaccine. Millions have taken these new treatments and the numbers are in. It is safest to get vaccinated. Please look at the data! It's a personal decision and nobody should be forced to take it, but if you don't you are acting irrationally while risking not only your life but also that of those around you. If everyone in the world had been vaccinated quickly it would have been much less likely that something like omicron would have popped up. 
-- ✌🏻It's not cool to exclude people because of their nationality, language, religion, politics, vaccination status or anything else. Do not be an asshole, nobody benefits from that!
-- 🙄 It's dumb to only have 2 political parties. I guess I'm a centrist. 
-- 🛠 When I break my tech I will be the one to fix it and the same should be true for you! Do not buy products you can't thinker with or fix! To hell with Apple's, John Deere's, DJI's and others' consumerism division. I own what I buy, and I will get the schematics no matter what🖕🏻 
-- 🇺🇦 It is not cool to pick on the small guy. If you do powers you can't comprehend will be unleashed against you. 
-
-https://www.ifixit.com/Manifesto
-
-*In lulz we trust.*
-
-Birds are not real and I make the fake birds. Fear me.
