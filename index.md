@@ -59,10 +59,8 @@ VR Photogrammetry Quest 2 App
 [Quest 2 Photogrammetry App](https://github.com/UMN-VR/UMN-VR-Quest-2-App)
 <br/>
 
-Drone with custom firmware and Carbon Fiber Nylon mount carrying 360 camera.
-
-[![Env](Gifs/A2S.gif)](https://youtu.be/_vy5MKZzaGs)\
-[Insta360-Drone-Mount](https://github.com/Felipegalind0/Insta360-Drone-Mount)
+[![Env](Gifs/Drone_Sunset_Video.gif)](https://youtu.be/_vy5MKZzaGs)\
+[Drone with custom firmware and Carbon Fiber Nylon mount carrying 360 camera.](https://github.com/Felipegalind0/Insta360-Drone-Mount)
 <br/>
 
 And Much More...\
