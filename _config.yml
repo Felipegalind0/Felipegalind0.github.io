@@ -25,6 +25,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:mailto:felipegalind0@outlook.com"}
   - {title: Github, icon: github, url: "https://github.com/Felipegalind0"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/Felipegalind0"}
+  - {title: Facebook, icon: facebook, url: "https://twitter.com/Felipegalind0"}
 
 
 remote_theme: niklasbuschmann/contrast@v2.11
