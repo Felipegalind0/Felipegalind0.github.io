@@ -55,10 +55,9 @@ I've been working on a CS degree at UMN for the past two years, I went to Marsha
 [GoldyDogV7](https://github.com/umn-vr/goldydogv7)
 <br/>
 
-### VR Photogrammetry Quest 2 App
+### [VR Photogrammetry Quest-2-App](https://github.com/UMN-VR/UMN-VR-Quest-2-App)
 
 [![Env](Gifs/schene.gif)](https://youtu.be/eQZTAWonZkg)\
-[Quest 2 Photogrammetry App](https://github.com/UMN-VR/UMN-VR-Quest-2-App)
 <br/>
 
 ### Drone with custom firmware and Carbon Fiber Nylon mount carrying 360 camera.
