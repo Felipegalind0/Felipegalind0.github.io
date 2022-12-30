@@ -70,7 +70,11 @@ Drone with custom firmware and Carbon Fiber Nylon mount carrying 360 camera.
 
 <br/>
 
-And Much More...\
+And Much More... 
+
+<br/>
+
+<br/>
 
 [FRCTeam4230](https://github.com/FRCTeam4230/MainBot-Code-2019)
 
