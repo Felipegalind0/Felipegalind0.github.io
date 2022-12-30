@@ -54,6 +54,12 @@ An Open Source Boston Dynamics inspired Lightweight Quadruped Robotics Platform 
 [![Env](Gifs/GoldyDogV7Stanford0.gif)](https://github.com/umn-vr/goldydogv7)\
 <br/>
 
+### [RONALD360](https://github.com/Felipegalind0/RONALD360)
+An Open Source Omnidirectional Robot with a 360 Camera.
+[![Env](Gifs/RONALD360.gif)](https://github.com/Felipegalind0/RONALD360)
+[![Env](Gifs/WED.gif)](https://github.com/Felipegalind0/RONALD360)
+
+
 ### [VR Photogrammetry Quest-2-App](https://github.com/UMN-VR/UMN-VR-Quest-2-App)
 An Open Source demonstration of photogrammetry in VR, made in Unity for Quest 2 & WebVR\
 [![Env](Gifs/schene.gif)](https://youtu.be/eQZTAWonZkg)\
