@@ -67,6 +67,8 @@ I've been working on a CS degree at UMN for the past two years, I went to Marsha
 And Much More...\
 
 [FRCTeam4230](https://github.com/FRCTeam4230/MainBot-Code-2019)
+
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/Felipegalind0?label=Sponsors&logoColor=FEC328)](https://github.com/sponsors/Felipegalind0)
 <!---
 Felipegalind0/Felipegalind0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
