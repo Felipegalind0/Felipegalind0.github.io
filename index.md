@@ -15,6 +15,10 @@ Cool Open Source Projects I've worked on: \
 
 -🎦 YT: [**youtube.com/@Felipegalind0**](https://www.youtube.com/@Felipegalind0) [youtube.com/@UMN-VR](https://www.youtube.com/@UMN-VR)
 
+-🎦 YT: [**youtube.com/@Felipegalind0**](https://www.youtube.com/@Felipegalind0) [youtube.com/@UMN-VR](https://www.youtube.com/@UMN-VR)
+
+-😎 WebVR: [GoldyDogV7 w/ Insta360 1:1](https://goldydogv7.glitch.me) [RONALD360 1:1](https://ronald360-showcase.glitch.me)\
+
 [![](https://github-readme-stats.vercel.app/api?username=Felipegalind0&show_icons=true)](https://github.com/Felipegalind0)
 
 - 👀 I’m interested in Drones, Photogrammetry Applications, 360 videography, WebXR Development in Babylon.js, Unity, ROS, Python, SwiftUI, cpp, Inverse Kinematics & more. 
@@ -44,11 +48,12 @@ I've been working on a CS degree at UMN for the past two years, I went to Marsha
 ### [GoldyDogV7](https://github.com/umn-vr/goldydogv7):
 An Open Source Boston Dynamics inspired Lightweight Quadruped Robotics Platform with a MPU-6050, LiDAR A1, RP4B, Insta360, 4g connectivity  & an Airtag\
 [![Env](Gifs/GoldyDogV7wInsta360.gif)](https://poly.cam/capture/2E7A09DC-651E-457D-BC65-34B380F1FFC4)\
-[Click here to view GoldyDogV7 w/ Insta360 3D Model](https://poly.cam/capture/2E7A09DC-651E-457D-BC65-34B380F1FFC4)
+[GoldyDogV7 w/ Insta360 3D Model](https://poly.cam/capture/2E7A09DC-651E-457D-BC65-34B380F1FFC4)
+[GoldyDogV7 w/ Insta360 1:1 WebVR Model](https://goldydogv7.glitch.me)
 <br/>
 
 [![Env](Gifs/GoldyDogV7wInsta360CAD.gif)](https://collaborate.shapr3d.com/v/TyNZZo2E9wQ8442WcQJLR)\
-[Click here to view GoldyDogV7 w/ Insta360 CAD Model](https://collaborate.shapr3d.com/v/TyNZZo2E9wQ8442WcQJLR)
+[GoldyDogV7 w/ Insta360 CAD Model](https://collaborate.shapr3d.com/v/TyNZZo2E9wQ8442WcQJLR)
 <br/>
 
 [![Env](Gifs/GoldyDogV7Stanford0.gif)](https://github.com/umn-vr/goldydogv7)\
@@ -56,7 +61,8 @@ An Open Source Boston Dynamics inspired Lightweight Quadruped Robotics Platform 
 
 ### [RONALD360](https://github.com/Felipegalind0/RONALD360)
 An Open Source Omnidirectional Robot with a 360 Camera.
-[![Env](Gifs/RONALD360.gif)](https://github.com/Felipegalind0/RONALD360)
+[![Env](Gifs/RONALD360.gif)](https://poly.cam/capture/DC0F4DF9-0BF0-4654-9EB7-D0CA191B5B42)\
+[RONALD360 1:1 WebVR Model](https://ronald360-showcase.glitch.me)\
 [![Env](Gifs/WED.gif)](https://github.com/Felipegalind0/RONALD360)
 
 
