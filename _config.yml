@@ -28,7 +28,8 @@ external:                  # shows a footer with social links - for available ic
   - {title: Facebook, icon: facebook, url: "https://facebook.com/Felipegalind0"}
   - {title: Instagram, icon: instagram, url: "https://instagram.com/Felipegalind0"}
   - {title: BeReal, title: BeReal, url: "https://instagram.com/Felipegalind0"}
-  - {title: LinkedIn, icon: linkedin, url: "https://linkedin.com/Felipegalind0"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/felipegalind0/"}
+  - {title: YouTube, icon: youtube, url: "https://www.youtube.com/@Felipegalind0"}
 
 remote_theme: niklasbuschmann/contrast@v2.11
 
