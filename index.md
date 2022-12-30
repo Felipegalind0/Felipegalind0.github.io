@@ -68,7 +68,7 @@ An Open Source demonstration of photogrammetry in VR, made in Unity for Quest 2 
 <br/>
 
 ### [Insta360 Drone Mount](https://github.com/Felipegalind0/Insta360-Drone-Mount)
-An Open Source Carbon Fiber Nylon Insta360 Drone Mount capable of flying on a A2S at full speed for up to 18 Minutes.
+An Open Source Carbon Fiber Nylon Insta360 Drone Mount capable of flying on a A2S at full speed for up to 18 Minutes\
 [![Env](Gifs/A2S_UMN.gif)](https://youtu.be/_vy5MKZzaGs)\
 [News Article](https://www.continuum.umn.edu/2022/02/students-take-library-equipment-to-new-heights/)  &nbsp; &nbsp; [Thingverse Page](https://www.thingiverse.com/thing:5532281)
 <br/>
