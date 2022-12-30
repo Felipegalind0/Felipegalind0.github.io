@@ -62,6 +62,8 @@ An Open Source demonstration of photogrammetry in VR, made in Unity for Quest 2 
 ### [Insta360 Drone Mount](https://github.com/Felipegalind0/Insta360-Drone-Mount)
 Drone with custom firmware and Carbon Fiber Nylon mount carrying 360 camera.
 [![Env](Gifs/A2S_UMN.gif)](https://youtu.be/_vy5MKZzaGs)\
+[News Article](https://www.continuum.umn.edu/2022/02/students-take-library-equipment-to-new-heights/)
+
 <br/>
 
 And Much More...\
