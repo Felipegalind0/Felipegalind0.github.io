@@ -19,6 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"}
   - {url: "/Felipegalind0_resume.pdf", title: CV}
   - {url: "http://UMN-VR.github.io", title: UMN-VR}
+  - {url: "https://github.com/sponsors/Felipegalind0", title: Sponsor Me 👊🏻}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:mailto:felipegalind0@outlook.com"}
