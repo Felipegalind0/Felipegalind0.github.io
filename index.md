@@ -55,13 +55,13 @@ An Open Source Boston Dynamics inspired Lightweight Quadruped Robotics Platform 
 <br/>
 
 ### [VR Photogrammetry Quest-2-App](https://github.com/UMN-VR/UMN-VR-Quest-2-App)
-
+An Open Source demonstration of photogrammetry in VR, made in Unity for Quest 2 & WebVR\
 [![Env](Gifs/schene.gif)](https://youtu.be/eQZTAWonZkg)\
 <br/>
 
-### Drone with custom firmware and Carbon Fiber Nylon mount carrying 360 camera.
-[![Env](Gifs/Drone_Sunset_Video.gif)](https://youtu.be/_vy5MKZzaGs)\
-[Insta360 Drone Mount repo](https://github.com/Felipegalind0/Insta360-Drone-Mount)
+### [Insta360 Drone Mount](https://github.com/Felipegalind0/Insta360-Drone-Mount)
+Drone with custom firmware and Carbon Fiber Nylon mount carrying 360 camera.
+[![Env](Gifs/A2S_UMN.gif)](https://youtu.be/_vy5MKZzaGs)\
 <br/>
 
 And Much More...\
