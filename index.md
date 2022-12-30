@@ -15,9 +15,7 @@ Cool Open Source Projects I've worked on: \
 
 -🎦 YT: [**youtube.com/@Felipegalind0**](https://www.youtube.com/@Felipegalind0) [youtube.com/@UMN-VR](https://www.youtube.com/@UMN-VR)
 
--🎦 YT: [**youtube.com/@Felipegalind0**](https://www.youtube.com/@Felipegalind0) [youtube.com/@UMN-VR](https://www.youtube.com/@UMN-VR)
-
--😎 WebVR: [GoldyDogV7 w/ Insta360 1:1](https://goldydogv7.glitch.me) [RONALD360 1:1](https://ronald360-showcase.glitch.me)\
+-😎 WebVR: [GoldyDogV7 w/ Insta360 1:1](https://goldydogv7.glitch.me) [RONALD360 1:1](https://ronald360-showcase.glitch.me)
 
 [![](https://github-readme-stats.vercel.app/api?username=Felipegalind0&show_icons=true)](https://github.com/Felipegalind0)
 
@@ -32,7 +30,6 @@ Cool Open Source Projects I've worked on: \
 - 💞️ I’m looking to collaborate on anything, please reach out to me.
 - 👊🏻 If you're like me and you rely on Open Source Hardware and Software(literally everyone in the planet), you shoud make your projects Open Source. 
 - 📖 I was working in a CS degree at UMN but they are broke and will only let me study for sticker price so probably switching schools. 
-
 
 -📧 Mail : **felipegalind0@outlook.com**(prefered) \
 (gali070@umn.edu, felipht@stanford.edu, gali1383@marshallschool.org.)
@@ -50,17 +47,15 @@ An Open Source Boston Dynamics inspired Lightweight Quadruped Robotics Platform 
 [![Env](Gifs/GoldyDogV7wInsta360.gif)](https://poly.cam/capture/2E7A09DC-651E-457D-BC65-34B380F1FFC4)\
 [GoldyDogV7 w/ Insta360 3D Model](https://poly.cam/capture/2E7A09DC-651E-457D-BC65-34B380F1FFC4)\
 [GoldyDogV7 w/ Insta360 1:1 WebVR Model](https://goldydogv7.glitch.me)
-<br/>
 
 [![Env](Gifs/GoldyDogV7wInsta360CAD.gif)](https://collaborate.shapr3d.com/v/TyNZZo2E9wQ8442WcQJLR)\
 [GoldyDogV7 w/ Insta360 CAD Model](https://collaborate.shapr3d.com/v/TyNZZo2E9wQ8442WcQJLR)
-<br/>
 
 [![Env](Gifs/GoldyDogV7Stanford0.gif)](https://github.com/umn-vr/goldydogv7)\
 <br/>
 
 ### [RONALD360](https://github.com/Felipegalind0/RONALD360)
-An Open Source Omnidirectional Robot with a 360 Camera.
+An open source, cheap, 4-mecanum-wheel robot capable of swiftly navigating very flat surfaces through teleoperation via a 360 camera.
 [![Env](Gifs/RONALD360.gif)](https://poly.cam/capture/DC0F4DF9-0BF0-4654-9EB7-D0CA191B5B42)\
 [RONALD360 3D Model](https://poly.cam/capture/DC0F4DF9-0BF0-4654-9EB7-D0CA191B5B42)\
 [RONALD360 1:1 WebVR Model](https://ronald360-showcase.glitch.me)\
@@ -73,7 +68,7 @@ An Open Source demonstration of photogrammetry in VR, made in Unity for Quest 2 
 <br/>
 
 ### [Insta360 Drone Mount](https://github.com/Felipegalind0/Insta360-Drone-Mount)
-Drone with custom firmware and Carbon Fiber Nylon mount carrying 360 camera.
+An Open Source Carbon Fiber Nylon Insta360 Drone Mount capable of flying on a A2S at full speed for up to 18 Minutes & no effect in flight dynamics with a custom firmware.
 [![Env](Gifs/A2S_UMN.gif)](https://youtu.be/_vy5MKZzaGs)\
 [News Article](https://www.continuum.umn.edu/2022/02/students-take-library-equipment-to-new-heights/)
 [Thingverse Page](https://www.thingiverse.com/thing:5532281)
