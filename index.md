@@ -62,6 +62,7 @@ An Open Source Boston Dynamics inspired Lightweight Quadruped Robotics Platform 
 ### [RONALD360](https://github.com/Felipegalind0/RONALD360)
 An Open Source Omnidirectional Robot with a 360 Camera.
 [![Env](Gifs/RONALD360.gif)](https://poly.cam/capture/DC0F4DF9-0BF0-4654-9EB7-D0CA191B5B42)\
+[RONALD360 3D Model](https://poly.cam/capture/DC0F4DF9-0BF0-4654-9EB7-D0CA191B5B42)\
 [RONALD360 1:1 WebVR Model](https://ronald360-showcase.glitch.me)\
 [![Env](Gifs/WED.gif)](https://github.com/Felipegalind0/RONALD360)
 
