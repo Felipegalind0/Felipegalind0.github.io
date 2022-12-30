@@ -15,7 +15,7 @@ Cool Open Source Projects I've worked on: \
 
 -🎦 YT: [**youtube.com/@Felipegalind0**](https://www.youtube.com/@Felipegalind0) [youtube.com/@UMN-VR](https://www.youtube.com/@UMN-VR)
 
--😎 WebVR: [GoldyDogV7 w/ Insta360 1:1](https://goldydogv7.glitch.me) &nbsp; [RONALD360 1:1](https://ronald360-showcase.glitch.me)
+-😎 WebVR: [GoldyDogV7 w/ Insta360 1:1](https://goldydogv7.glitch.me) &nbsp; &nbsp; [RONALD360 1:1](https://ronald360-showcase.glitch.me)
 
 [![](https://github-readme-stats.vercel.app/api?username=Felipegalind0&show_icons=true)](https://github.com/Felipegalind0)
 
