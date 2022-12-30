@@ -24,7 +24,7 @@ Cool Open Source Projects I've worked on: \
 -  🙃I’m currently living in Minneapolis, and frankly I don't like it, Duluth is better. 
 -  ⚡ Fun fact: I dropped a phone from the Golden Gate, sometimes I'm not the brightest :/
 -  🇨🇴 I was born in Colombia and speak fluent spanish. 
--  🇺🇸 I live in the states so I speak English, duh
+-  🇺🇸 I live in the states so I speak English, duh.
 -  🇩🇪 My sister was learning French, I wanted to learn a third language to match her, and I met this cute girl who spoke german so i decided I was going to learn german and I did.(Sort of) 
 - 🧸 I'm proud of who I am, what I have built, and what I am building.
 - 💞️ I’m looking to collaborate on anything, please reach out to me.
@@ -43,13 +43,15 @@ I've been working on a CS degree at UMN for the past two years, I went to Marsha
 ## Some of the things I have worked on:
 
 ### [GoldyDogV7](https://github.com/umn-vr/goldydogv7):
-An Open Source Boston Dynamics inspired Lightweight Quadruped Robotics Platform with a MPU-6050, LiDAR A1, RP4B, Insta360, 4g connectivity  & an Airtag\
+An Open Source Boston Dynamics inspired Lightweight Quadruped Robotics Platform with a MPU-6050, LiDAR A1, RP4B, Insta360, 4g connectivity  & an Airtag.\
 [![Env](Gifs/GoldyDogV7wInsta360.gif)](https://poly.cam/capture/2E7A09DC-651E-457D-BC65-34B380F1FFC4)\
-[GoldyDogV7 w/ Insta360 3D Model](https://poly.cam/capture/2E7A09DC-651E-457D-BC65-34B380F1FFC4)\
-[GoldyDogV7 w/ Insta360 1:1 WebVR Model](https://goldydogv7.glitch.me)
+[GoldyDogV7 w/ Insta360 3D Model.](https://poly.cam/capture/2E7A09DC-651E-457D-BC65-34B380F1FFC4)\
+[GoldyDogV7 w/ Insta360 1:1 WebVR Model.](https://goldydogv7.glitch.me)
+<br/>
 
 [![Env](Gifs/GoldyDogV7wInsta360CAD.gif)](https://collaborate.shapr3d.com/v/TyNZZo2E9wQ8442WcQJLR)\
 [GoldyDogV7 w/ Insta360 CAD Model](https://collaborate.shapr3d.com/v/TyNZZo2E9wQ8442WcQJLR)
+<br/>
 
 [![Env](Gifs/GoldyDogV7Stanford0.gif)](https://github.com/umn-vr/goldydogv7)\
 <br/>
