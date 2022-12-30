@@ -41,8 +41,8 @@ I've been working on a CS degree at UMN for the past two years, I went to Marsha
 
 ## Some of the things I have worked on:
 
-### Boston Dynamics inspired spotMicro robots:
-
+### [GoldyDogV7](https://github.com/umn-vr/goldydogv7):
+An Open Source Boston Dynamics inspired Lightweight Quadruped Robotics Platform with a MPU-6050, LiDAR A1, RP4B, Insta360, 4g connectivity  & an Airtag
 [![Env](Gifs/GoldyDogV7wInsta360.gif)](https://poly.cam/capture/2E7A09DC-651E-457D-BC65-34B380F1FFC4)\
 [Click here to view GoldyDogV7 w/ Insta360 3D Model](https://poly.cam/capture/2E7A09DC-651E-457D-BC65-34B380F1FFC4)
 <br/>
@@ -52,7 +52,6 @@ I've been working on a CS degree at UMN for the past two years, I went to Marsha
 <br/>
 
 [![Env](Gifs/GoldyDogV7Stanford0.gif)](https://github.com/umn-vr/goldydogv7)\
-[GoldyDogV7](https://github.com/umn-vr/goldydogv7)
 <br/>
 
 ### [VR Photogrammetry Quest-2-App](https://github.com/UMN-VR/UMN-VR-Quest-2-App)
