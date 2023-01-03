@@ -9,6 +9,7 @@ permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
+google_analytics: UA-252839005-1
 
 # Layout
 show_social: true         # show footer
@@ -35,10 +36,9 @@ external:                  # shows a footer with social links - for available ic
   - {title: YouTube, icon: youtube, url: "https://www.youtube.com/@Felipegalind0"}
   - {title: VSCO, url: "https://vsco.co/felipegalind0"}  
 
-google_analytics: UA-252839005-1
-
 remote_theme: niklasbuschmann/contrast@v2.11
 
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
