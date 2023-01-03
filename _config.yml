@@ -35,6 +35,8 @@ external:                  # shows a footer with social links - for available ic
   - {title: YouTube, icon: youtube, url: "https://www.youtube.com/@Felipegalind0"}
   - {title: VSCO, url: "https://vsco.co/felipegalind0"}  
 
+google_analytics: UA-252839005-1
+
 remote_theme: niklasbuschmann/contrast@v2.11
 
 plugins:
