@@ -57,7 +57,7 @@ An Open Source Boston Dynamics inspired Lightweight Quadruped Robotics Platform 
 <br/>
 
 ### [RONALD360](https://github.com/Felipegalind0/RONALD360)
-An open source, cheap, 4-mecanum-wheel robot capable of swiftly navigating very flat surfaces through teleoperation via a 360 camera.\
+An open source, cheap, 4-mecanum-wheel robot capable of swiftly navigating very flat surfaces through teleoperation via a 360 camera which I used to capture the images for the Google MyBuisness Profile of Marshall School\
 [![Env](Gifs/RONALD360.gif)](https://poly.cam/capture/DC0F4DF9-0BF0-4654-9EB7-D0CA191B5B42)\
 [RONALD360 3D Model](https://poly.cam/capture/DC0F4DF9-0BF0-4654-9EB7-D0CA191B5B42)\
 [RONALD360 1:1 WebVR Model](https://ronald360-showcase.glitch.me)\
