@@ -57,7 +57,7 @@ An Open Source Boston Dynamics inspired Lightweight Quadruped Robotics Platform 
 <br/>
 
 ### [RONALD360](https://github.com/Felipegalind0/RONALD360)
-An open source, cheap, 4-mecanum-wheel robot capable of swiftly navigating very flat surfaces through teleoperation via a 360 camera which I used to capture the images for the Google MyBuisness Profile of Marshall School\
+An open source, cheap, 4-mecanum-wheel robot capable of swiftly navigating very flat surfaces through teleoperation via a 360 camera which I used to capture the [images for the Google MyBuisness Profile of Marshall School](https://www.google.com/maps/@46.8022282,-92.1112777,3a,74.999992y,80.000000h,70.000000t/data=!3m4!1e1!3m2!1sAF1QipODNp847Mb8b0sOGfNKKHw4TO0llD69eYGQX63N!2e10?shorturl=1)\
 [![Env](Gifs/RONALD360.gif)](https://poly.cam/capture/DC0F4DF9-0BF0-4654-9EB7-D0CA191B5B42)\
 [RONALD360 3D Model](https://poly.cam/capture/DC0F4DF9-0BF0-4654-9EB7-D0CA191B5B42)\
 [RONALD360 1:1 WebVR Model](https://ronald360-showcase.glitch.me)\
@@ -88,6 +88,8 @@ And Much More...
 [FRCTeam4230](https://github.com/FRCTeam4230/MainBot-Code-2019)
 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/Felipegalind0?label=Sponsors&logoColor=FEC328)](https://github.com/sponsors/Felipegalind0)
+
+[Code for this website](https://github.com/Felipegalind0/Felipegalind0.github.io)
 <!---
 Felipegalind0/Felipegalind0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
