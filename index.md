@@ -73,6 +73,7 @@ An Open Source demonstration of photogrammetry in VR, made in Unity for Quest 2 
 An Open Source Carbon Fiber Nylon Insta360 Drone Mount capable of flying on a A2S at full speed for up to 18 Minutes\
 [![Env](Gifs/A2S_UMN.gif)](https://youtu.be/_vy5MKZzaGs)\
 [News Article](https://www.continuum.umn.edu/2022/02/students-take-library-equipment-to-new-heights/)  &nbsp; &nbsp; [Thingverse Page](https://www.thingiverse.com/thing:5532281)
+
 <br/>
 
 <br/>
@@ -85,11 +86,17 @@ And Much More...
 
 <br/>
 
+Designed Washington Elite Dentistry's:
+
+[vCard](https://bit.ly/3jZF23u) [Google Profile](https://goo.gl/maps/nsrmrbN7LEPHzhZ57) [Website](https://www.washingtonelitedentistry.com)
+
+
 [FRCTeam4230](https://github.com/FRCTeam4230/MainBot-Code-2019)
 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/Felipegalind0?label=Sponsors&logoColor=FEC328)](https://github.com/sponsors/Felipegalind0)
 
 [Code for this website](https://github.com/Felipegalind0/Felipegalind0.github.io)
+
 <!---
 Felipegalind0/Felipegalind0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
