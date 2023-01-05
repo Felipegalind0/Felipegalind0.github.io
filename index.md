@@ -88,7 +88,7 @@ And Much More...
 
 Designed Washington Elite Dentistry's:
 
-[vCard](https://bit.ly/3jZF23u) [Google Profile](https://goo.gl/maps/nsrmrbN7LEPHzhZ57) [Website](https://www.washingtonelitedentistry.com)
+[vCard](https://bit.ly/3jZF23u) &nbsp; &nbsp; [Google Profile](https://goo.gl/maps/nsrmrbN7LEPHzhZ57) &nbsp; &nbsp; [Website](https://www.washingtonelitedentistry.com)
 
 
 [FRCTeam4230](https://github.com/FRCTeam4230/MainBot-Code-2019)
