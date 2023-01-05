@@ -89,7 +89,7 @@ An Open Source Carbon Fiber Nylon Insta360 Drone Mount capable of flying on a A2
 [FRCTeam4230](https://github.com/FRCTeam4230/MainBot-Code-2019)
 
 Designed Washington Elite Dentistry's:
-[vCard](https://bit.ly/3jZF23u) &nbsp; &nbsp; [Google Profile](https://goo.gl/maps/nsrmrbN7LEPHzhZ57) &nbsp; &nbsp; [Website](https://www.washingtonelitedentistry.com)
+&nbsp; &nbsp; [vCard](https://bit.ly/3jZF23u) &nbsp; &nbsp; [Google Profile](https://goo.gl/maps/nsrmrbN7LEPHzhZ57) &nbsp; &nbsp; [Website](https://www.washingtonelitedentistry.com)
 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/Felipegalind0?label=Sponsors&logoColor=FEC328)](https://github.com/sponsors/Felipegalind0)
 
