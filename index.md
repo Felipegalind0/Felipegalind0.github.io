@@ -7,6 +7,8 @@ title: ""
 Cool Open Source Projects I've worked on: \
 [GoldyDogV7](https://github.com/umn-vr/goldydogv7) &nbsp; [RONALD360](https://github.com/Felipegalind0/RONALD360) &nbsp; [Insta360-Drone-Mount](https://github.com/Felipegalind0/Insta360-Drone-Mount) &nbsp; [Quest-2-App](https://github.com/UMN-VR/UMN-VR-Quest-2-App) &nbsp; [UMN-RI3D-2023](https://github.com/GOFIRST-Robotics/Ri3D-2023)
 
+-🎥 360 Drone Tour Videos: [Marshall School](https://www.youtube.com/watch?v=OoCohYn445I&list=PLL9sMwxqcFqGlZlUxdoyjaeGB9wY5OsT1)
+
 -🌐 Web: [**felipegalind0.github.io**](https://felipegalind0.github.io) &nbsp; &nbsp; [umn-vr.github.io](https://umn-vr.github.io) &nbsp; &nbsp; [goldy.dog](https://goldy.dog)
 
 -🎨 Polycam :[poly.cam/@Felipegalind0](https://poly.cam/@Felipegalind0)
