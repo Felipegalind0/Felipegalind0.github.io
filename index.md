@@ -21,6 +21,215 @@ Cool Open Source Projects I've worked on: \
 
 [![](https://github-readme-stats.vercel.app/api?username=Felipegalind0&show_icons=true)](https://github.com/Felipegalind0)
 
+    
+<section class="core-section-container my-3 core-section-container--with-border border-b-1 border-solid border-color-border-faint m-0 py-3 pp-section experience">
+<!---->
+        
+        <h2 class="core-section-container__title section-title">
+            
+    Experience
+    
+        </h2>
+    
+    
+<!---->
+    <div class="core-section-container__content break-words">
+    
+    <ul class="experience__list">
+            
+
+
+
+
+
+
+
+<li class="profile-section-card  experience-item" data-section="currentPositionsDetails">
+<!---->          <a class="profile-section-card__image-link" href="https://www.linkedin.com/company/umn-vr?trk=public_profile-settings_experience-item_profile-section-card_image-click" data-tracking-control-name="public_profile-settings_experience-item_profile-section-card_image-click" data-tracking-will-navigate>
+        
+    <img class="artdeco-entity-image artdeco-entity-image--square-4
+        profile-section-card__image" data-delayed-url="https://media.licdn.com/dms/image/C560BAQG4VCb-l3F7PQ/company-logo_100_100/0/1642285363691?e=1699488000&amp;v=beta&amp;t=uod68r8Jhjqx4oWiCQkZTXBn0bS3q36ALk8S-VHvm4M" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/3dtfvv2esz58o2zimai1h3v2d" alt="UMN VR Graphic">
+
+        </a>
+
+    <div class="profile-section-card__contents">
+    <h3 class="profile-section-card__title">
+        
+    Co-Founder
+    
+    </h3>
+
+        <h4 class="profile-section-card__subtitle">
+            <a class="profile-section-card__subtitle-link" href="https://www.linkedin.com/company/umn-vr?trk=public_profile-settings_experience-item_profile-section-card_subtitle-click" data-tracking-control-name="public_profile-settings_experience-item_profile-section-card_subtitle-click" data-tracking-will-navigate>
+            
+    UMN VR
+    
+            </a>
+        </h4>
+
+    
+
+    <div class="profile-section-card__meta">
+        
+        <p class="experience-item__duration experience-item__meta-item">
+        
+
+
+
+    <span class="date-range text-color-text-secondary font-sans text-md leading-open font-regular">
+<time>Nov 2021</time> - Present<span class="before:middot">1 year 10 months</span>
+    </span>
+
+        </p>
+
+        <p class="experience-item__location experience-item__meta-item">
+        526 Delaware Street SE, Minneapolis, MN 55455
+        </p>
+
+<!---->      
+    </div>
+    </div>
+
+    
+</li>
+
+
+            
+
+
+
+
+
+
+
+<li class="profile-section-card  experience-item" data-section="currentPositionsDetails">
+<!---->          <a class="profile-section-card__image-link" href="https://www.linkedin.com/company/tesla-works?trk=public_profile-settings_experience-item_profile-section-card_image-click" data-tracking-control-name="public_profile-settings_experience-item_profile-section-card_image-click" data-tracking-will-navigate>
+        
+    <img class="artdeco-entity-image artdeco-entity-image--square-4
+        profile-section-card__image" data-delayed-url="https://media.licdn.com/dms/image/C4E0BAQFPPYqcax9sYw/company-logo_100_100/0/1553456774895?e=1699488000&amp;v=beta&amp;t=6mZ8Gu2qnKFCgA5e6unQUlXNduAdWWmZpqVqVCjrDPo" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/3dtfvv2esz58o2zimai1h3v2d" alt="Tesla Works Graphic">
+
+        </a>
+
+    <div class="profile-section-card__contents">
+    <h3 class="profile-section-card__title">
+        
+    Project Director
+    
+    </h3>
+
+        <h4 class="profile-section-card__subtitle">
+            <a class="profile-section-card__subtitle-link" href="https://www.linkedin.com/company/tesla-works?trk=public_profile-settings_experience-item_profile-section-card_subtitle-click" data-tracking-control-name="public_profile-settings_experience-item_profile-section-card_subtitle-click" data-tracking-will-navigate>
+            
+    Tesla Works
+    
+            </a>
+        </h4>
+
+    
+
+    <div class="profile-section-card__meta">
+        
+        <p class="experience-item__duration experience-item__meta-item">
+        
+
+
+
+    <span class="date-range text-color-text-secondary font-sans text-md leading-open font-regular">
+<time>Aug 2021</time> - Present<span class="before:middot">2 years 1 month</span>
+    </span>
+
+        </p>
+
+<!---->
+<!---->      
+    </div>
+    </div>
+
+    
+</li>
+
+
+            
+
+
+
+
+
+
+
+<li class="profile-section-card  experience-item" data-section="pastPositionsDetails">
+<!---->          
+    <img class="artdeco-entity-image artdeco-entity-image--square-4
+        artdeco-entity-image--ghost profile-section-card__image" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/3dtfvv2esz58o2zimai1h3v2d" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/3dtfvv2esz58o2zimai1h3v2d" alt="Washington Elite Dentistry Graphic" aria-hidden="true">
+
+
+    <div class="profile-section-card__contents">
+    <h3 class="profile-section-card__title">
+        
+    Database Manager/ Software Engineer
+    
+    </h3>
+
+        <h4 class="profile-section-card__subtitle">
+            
+    Washington Elite Dentistry
+    
+        </h4>
+
+    
+
+    <div class="profile-section-card__meta">
+        
+        <p class="experience-item__duration experience-item__meta-item">
+        
+
+
+
+    <span class="date-range text-color-text-secondary font-sans text-md leading-open font-regular">
+<time>Sep 2019</time> - <time>Jul 2023</time><span class="before:middot">3 years 11 months</span>
+    </span>
+
+        </p>
+
+        <p class="experience-item__location experience-item__meta-item">
+        555 12th St. NW, Suite L-300, Washington DC 20004, United States
+        </p>
+
+<!---->      
+    </div>
+    </div>
+
+    
+</li>
+
+
+    </ul>
+    
+    </div>
+</section>
+  
+  
+  
+          
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!----><!----><!---->
+<!---->
+
 - 👀 I’m interested in Drones, Photogrammetry Applications, 360 videography, WebXR Development in Babylon.js, Unity, ROS, Python, SwiftUI, cpp, Inverse Kinematics & more. 
 -  🧑‍💻 Coding is my passion. I hate working with hardware, but I guess I'm ok at that too. 
 -  🙃I’m currently living in Minneapolis, and frankly I don't like it, Duluth is better. 
