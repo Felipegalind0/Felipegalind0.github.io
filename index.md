@@ -219,18 +219,5 @@ Designed Washington Elite Dentistry's:
 <br/>
 
 
-[Code for this website](https://github.com/Felipegalind0/Felipegalind0.github.io)
-
-
-<section class="core-section-container my-3 core-section-container--with-border border-b-1 border-solid border-color-border-faint m-0 py-3 pp-section experience">
-    <h2 class="core-section-container__title section-title">
-        Experience
-    </h2>
-    <div class="core-section-container__content break-words">
-        <!-- Rest of the HTML content is omitted for brevity -->
-    </div>
-</section>
-
-
 ![https://img.shields.io/github/sponsors/Felipegalind0?label=Sponsors&logoColor=FEC328](https://github.com/sponsors/Felipegalind0)
 
