@@ -21,22 +21,47 @@ Open Source Projects I've worked on: \
 
 [![](https://github-readme-stats-sigma-five.vercel.app/api?username=Felipegalind0&show_icons=true)]
 
-## Experience
+<section style="border-bottom: 1px solid #e1e4e8; padding: 16px 0;">
+    <h2 style="font-size: 24px; margin-bottom: 16px;">Experience</h2>
+    
+    <!-- UMN VR Experience -->
+    <div style="display: flex; margin-bottom: 16px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px;">
+        <a href="https://www.linkedin.com/company/umn-vr" style="margin-right: 16px;">
+            <img src="https://media.licdn.com/dms/image/C560BAQG4VCb-l3F7PQ/company-logo_100_100/0/1642285363691?e=1699488000&v=beta&t=uod68r8Jhjqx4oWiCQkZTXBn0bS3q36ALk8S-VHvm4M" alt="UMN VR Graphic" width="100" height="100">
+        </a>
+        <div>
+            <h3 style="font-size: 20px;">Co-Founder</h3>
+            <a href="https://www.linkedin.com/company/umn-vr" style="color: #0366d6; text-decoration: none;">UMN VR</a>
+            <p><time>Nov 2021</time> - Present • 1 year 10 months</p>
+            <p>526 Delaware Street SE, Minneapolis, MN 55455</p>
+        </div>
+    </div>
+    
+    <!-- Tesla Works Experience -->
+    <div style="display: flex; margin-bottom: 16px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px;">
+        <a href="https://www.linkedin.com/company/tesla-works" style="margin-right: 16px;">
+            <img src="https://media.licdn.com/dms/image/C4E0BAQFPPYqcax9sYw/company-logo_100_100/0/1553456774895?e=1699488000&v=beta&t=6mZ8Gu2qnKFCgA5e6unQUlXNduAdWWmZpqVqVCjrDPo" alt="Tesla Works Graphic" width="100" height="100">
+        </a>
+        <div>
+            <h3 style="font-size: 20px;">Project Director</h3>
+            <a href="https://www.linkedin.com/company/tesla-works" style="color: #0366d6; text-decoration: none;">Tesla Works</a>
+            <p><time>Aug 2021</time> - Present • 2 years 1 month</p>
+        </div>
+    </div>
+    
+    <!-- Washington Elite Dentistry Experience -->
+    <div style="display: flex; margin-bottom: 16px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px;">
+        <img src="https://static.licdn.com/aero-v1/sc/h/3dtfvv2esz58o2zimai1h3v2d" alt="Washington Elite Dentistry Graphic" width="100" height="100" style="margin-right: 16px;">
+        <div>
+            <h3 style="font-size: 20px;">Database Manager/ Software Engineer</h3>
+            <p>Washington Elite Dentistry</p>
+            <p><time>Sep 2019</time> - <time>Jul 2023</time> • 3 years 11 months</p>
+            <p>555 12th St. NW, Suite L-300, Washington DC 20004, United States</p>
+        </div>
+    </div>
+</section>
 
-### Co-Founder at [UMN VR](https://www.linkedin.com/company/umn-vr)
-![UMN VR Graphic](https://media.licdn.com/dms/image/C560BAQG4VCb-l3F7PQ/company-logo_100_100/0/1642285363691?e=1699488000&v=beta&t=uod68r8Jhjqx4oWiCQkZTXBn0bS3q36ALk8S-VHvm4M)
-- Duration: Nov 2021 - Present (1 year 10 months)
-- Location: 526 Delaware Street SE, Minneapolis, MN 55455
 
-### Project Director at [Tesla Works](https://www.linkedin.com/company/tesla-works)
-![Tesla Works Graphic](https://media.licdn.com/dms/image/C4E0BAQFPPYqcax9sYw/company-logo_100_100/0/1553456774895?e=1699488000&v=beta&t=6mZ8Gu2qnKFCgA5e6unQUlXNduAdWWmZpqVqVCjrDPo)
-- Duration: Aug 2021 - Present (2 years 1 month)
-
-### Database Manager/ Software Engineer at Washington Elite Dentistry
-![Washington Elite Dentistry Graphic](https://static.licdn.com/aero-v1/sc/h/3dtfvv2esz58o2zimai1h3v2d)
-- Duration: Sep 2019 - Jul 2023 (3 years 11 months)
-- Location: 555 12th St. NW, Suite L-300, Washington DC 20004, United States
-(https://github.com/Felipegalind0)
 
 - 👀 I’m interested in Drones, Photogrammetry, 360 videography, WebXR, Babylon.js, Unity, ROS, Python, SwiftUI,
 Inverse Kinematics & more. 
