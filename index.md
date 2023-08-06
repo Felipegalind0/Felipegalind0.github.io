@@ -135,7 +135,8 @@ Designed Washington Elite Dentistry's:
     <!-- University of Minnesota Education -->
     <div style="display: flex; margin-bottom: 16px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px;">
         <a href="https://www.linkedin.com/school/university-of-minnesota/" style="margin-right: 16px;">
-            <img src="https://media.licdn.com/dms/image/D560BAQHwCeaCLneKOA/company-logo_100_100/0/1688531055131?e=1699488000&v=beta&t=IrDzBJ2D4wZvFl7kL_22x3P7EThOe03i5zjUC9Zz9no" alt="University of Minnesota Graphic" width="100" height="100">
+            <img src="https://raw.githubusercontent.com/Felipegalind0/Felipegalind0.github.io/main/img/UMN.JPG" 
+            alt="University of Minnesota Graphic" width="100" height="100">
         </a>
         <div>
             <h3 style="font-size: 20px;">University of Minnesota</h3>
