@@ -19,7 +19,7 @@ Open Source Projects I've worked on: \
 
 -😎 WebVR(Open these w/ a VR Headset): [GoldyDogV7 w/ Insta360 1:1](https://goldydogv7.glitch.me) &nbsp; &nbsp; [RONALD360 1:1](https://ronald360-showcase.glitch.me)
 
-[![](https://github-readme-stats-sigma-five.vercel.app/api?username=Felipegalind0&show_icons=true)]
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=Felipegalind0&show_icons=true)
 
 <section style="border-bottom: 1px solid #e1e4e8; padding: 16px 0;">
     <h2 style="font-size: 24px; margin-bottom: 16px;">Experience</h2>
@@ -57,6 +57,79 @@ Open Source Projects I've worked on: \
             <p>Washington Elite Dentistry</p>
             <p><time>Sep 2019</time> - <time>Jul 2023</time> • 3 years 11 months</p>
             <p>555 12th St. NW, Suite L-300, Washington DC 20004, United States</p>
+        </div>
+    </div>
+</section>
+
+<section style="border-bottom: 1px solid #e1e4e8; padding: 16px 0;">
+    <h2 style="font-size: 24px; margin-bottom: 16px;">Education</h2>
+    
+    <!-- University of Minnesota Education -->
+    <div style="display: flex; margin-bottom: 16px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px;">
+        <a href="https://www.linkedin.com/school/university-of-minnesota/" style="margin-right: 16px;">
+            <img src="https://media.licdn.com/dms/image/D560BAQHwCeaCLneKOA/company-logo_100_100/0/1688531055131?e=1699488000&v=beta&t=IrDzBJ2D4wZvFl7kL_22x3P7EThOe03i5zjUC9Zz9no" alt="University of Minnesota Graphic" width="100" height="100">
+        </a>
+        <div>
+            <h3 style="font-size: 20px;">University of Minnesota</h3>
+            <p>Bachelor of Science - BS, Computer Science</p>
+            <p><time>2020</time> - <time>2024</time></p>
+        </div>
+    </div>
+    
+    <!-- Marshall School Education -->
+    <div style="display: flex; margin-bottom: 16px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px;">
+        <a href="https://www.linkedin.com/school/marshall-school/" style="margin-right: 16px;">
+            <img src="https://media.licdn.com/dms/image/C4D0BAQFKtDtey5DQFA/company-logo_100_100/0/1519935205824?e=1699488000&v=beta&t=6HcUbBw_HewB8MRwom5LtRIyMr4pxrpJRDM_HCuc9vY" alt="Marshall School Graphic" width="100" height="100">
+        </a>
+        <div>
+            <h3 style="font-size: 20px;">Marshall School</h3>
+            <p><time>2017</time> - <time>2020</time></p>
+        </div>
+    </div>
+    
+    <!-- Stanford University Education -->
+    <div style="display: flex; margin-bottom: 16px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px;">
+        <a href="https://www.linkedin.com/school/stanford-university/" style="margin-right: 16px;">
+            <img src="https://media.licdn.com/dms/image/C560BAQHr9suxyJBXMw/company-logo_100_100/0/1635534378574?e=1699488000&v=beta&t=1lPRxDassAFHSJSuRxramCVJ91qw0gOTLwlLLPkrOaA" alt="Stanford University Graphic" width="100" height="100">
+        </a>
+        <div>
+            <h3 style="font-size: 20px;">Stanford University</h3>
+            <p>Summer Session 2019, Computer Science</p>
+            <p><time>2019</time></p>
+        </div>
+    </div>
+</section>
+
+<section style="border-bottom: 1px solid #e1e4e8; padding: 16px 0;">
+    <h2 style="font-size: 24px; margin-bottom: 16px;">Licenses & Certifications</h2>
+    
+    <!-- Google StreetView Trusted Photographer Certification -->
+    <div style="display: flex; margin-bottom: 16px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px;">
+        <img src="https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_100_100/0/1519856215226?e=1699488000&v=beta&t=ElaeDxvk9TO0zkYYol_A2A63nWanKj2L_0qscwlxZkw" alt="Google StreetView Trusted Photographer Graphic" width="100" height="100" style="margin-right: 16px;">
+        <div>
+            <h3 style="font-size: 20px;">Google StreetView Trusted Photographer</h3>
+            <p>Google</p>
+            <p>Issued <time>Aug 2023</time></p>
+        </div>
+    </div>
+    
+    <!-- Unmanned Aircraft General – Small (UAG) (Part 107) Certification -->
+    <div style="display: flex; margin-bottom: 16px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px;">
+        <img src="https://media.licdn.com/dms/image/C510BAQFo7QDO5VSKKg/company-logo_100_100/0/1519855898245?e=1699488000&v=beta&t=5faSDUsBlxr8jC3WecUC2G1x75h8kHC0Dp3tCRZVCMg" alt="Unmanned Aircraft General – Small (UAG) (Part 107) Graphic" width="100" height="100" style="margin-right: 16px;">
+        <div>
+            <h3 style="font-size: 20px;">Unmanned Aircraft General – Small (UAG) (Part 107)</h3>
+            <p>Federal Aviation Administration</p>
+            <p>Issued <time>Dec 2022</time></p>
+            <p>Credential ID 4687698</p>
+        </div>
+    </div>
+    
+    <!-- American Society for Photogrammetry and Remote Sensing Member Certification -->
+    <div style="display: flex; margin-bottom: 16px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px;">
+        <img src="https://media.licdn.com/dms/image/C560BAQG32kEMq5NrWQ/company-logo_100_100/0/1585574083711?e=1699488000&v=beta&t=wqnvoR8ZvDbnGvYoQRwQdPS0IlZxCr3HnRV4exyxI9g" alt="American Society for Photogrammetry and Remote Sensing Member Graphic" width="100" height="100" style="margin-right: 16px;">
+        <div>
+            <h3 style="font-size: 20px;">American Society for Photogrammetry and Remote Sensing Member</h3>
+            <p>ASPRS</p>
         </div>
     </div>
 </section>
