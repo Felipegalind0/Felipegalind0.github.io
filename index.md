@@ -19,6 +19,74 @@ Open Source Projects I've worked on: \
 
 -😎 WebVR(Open these w/ a VR Headset): [GoldyDogV7 w/ Insta360 1:1](https://goldydogv7.glitch.me) &nbsp; &nbsp; [RONALD360 1:1](https://ronald360-showcase.glitch.me)
 
+
+
+
+- 👀 I’m interested in Drones, Photogrammetry, 360 videography, WebXR, Babylon.js, Unity, ROS, Python, SwiftUI,
+Inverse Kinematics & more. 
+-  🧑‍💻 Coding is my passion. I don't prefer working with hardware, but I guess I'm ok at that too. 
+-  🙃I’m currently living in Minneapolis, and frankly I don't like it, Duluth is better. 
+-  ⚡ Fun fact: I dropped a phone from the Golden Gate, sometimes I'm not the brightest :/
+-  🇨🇴 I was born in Colombia and speak fluent spanish. 
+-  🇺🇸 I live in the states so I speak English, duh.
+-  🇩🇪 My sister was learning French, I wanted to learn a third language to match her, and I met this cute girl who spoke german so i decided I was going to learn german and I did.(Sort of) 
+- 👊🏻 If you're like me and you rely on Open Source Hardware and Software(literally everyone in the planet), you shoud make your projects Open Source, and contribute to projects you think are important. 
+- 📖 I was working on a CS degree at UMN but I won't be able to finish that because I've been paying sticker price up unitl now, and the U denies me aid because of my nationality :(
+
+-📧 Mail : **felipegalind0@outlook.com**(prefered) \
+(gali070@umn.edu(old), felipht@stanford.edu(old), gali1383@marshallschool.org(old))
+
+-👾 Discord : FelipeGalind0#9289
+
+#### 📫 The best way to reach me is to send a discord message or an email. 
+
+I've been working on a CS degree at UMN for the past two years, I went to Marshall School & Stanford Summer Session 2019. I’m interested in Drones, Photogrammetry, WebXR Development in Babylon.js and VR Develoment in general. I designed my own [Robot Dog](https://github.com/UMN-VR/GoldyDogV7), and made a hobby of CADing [360 camera attachments for a Drone](https://github.com/Felipegalind0/Insta360-Drone-Mount), an [Omnidirectional Robot](https://github.com/Felipegalind0/RONALD360), among other things. I'm an early adopter of imersive tech, ever since I got my Gear VR I feel in love with it. 
+
+I have a part 107 licence, [send me an email](mailto:felipegalind0@outlook.com) if you want to work with me! 
+Looking for a Job at a company that aligns with my values and chalenges me to grow my skills. 
+
+## Some of the things I have worked on:
+
+### [GoldyDogV7](https://github.com/umn-vr/goldydogv7):
+An Open Source Boston Dynamics inspired Lightweight Quadruped Robotics Platform with a MPU-6050, LiDAR A1, RP4B, Insta360, 4g connectivity  & an Airtag.\
+[![Env](Gifs/GoldyDogV7wInsta360.gif)](https://poly.cam/capture/2E7A09DC-651E-457D-BC65-34B380F1FFC4)\
+[GoldyDogV7 w/ Insta360 3D Model.](https://poly.cam/capture/2E7A09DC-651E-457D-BC65-34B380F1FFC4)\
+[GoldyDogV7 w/ Insta360 1:1 WebVR Model.](https://goldydogv7.glitch.me)
+<br/>
+
+[![Env](Gifs/GoldyDogV7wInsta360CAD.gif)](https://collaborate.shapr3d.com/v/TyNZZo2E9wQ8442WcQJLR)\
+[GoldyDogV7 w/ Insta360 CAD Model](https://collaborate.shapr3d.com/v/TyNZZo2E9wQ8442WcQJLR)
+<br/>
+
+[![Env](Gifs/GoldyDogV7Stanford0.gif)](https://github.com/umn-vr/goldydogv7)\
+<br/>
+
+### [RONALD360](https://github.com/Felipegalind0/RONALD360)
+An open source, cheap, 4-mecanum-wheel robot capable of swiftly navigating very flat surfaces through teleoperation via a 360 camera which I used to capture the [images for the Google MyBuisness Profile of Marshall School](https://www.google.com/maps/@46.8022282,-92.1112777,3a,74.999992y,80.000000h,70.000000t/data=!3m4!1e1!3m2!1sAF1QipODNp847Mb8b0sOGfNKKHw4TO0llD69eYGQX63N!2e10?shorturl=1)\
+[![Env](Gifs/RONALD360.gif)](https://poly.cam/capture/DC0F4DF9-0BF0-4654-9EB7-D0CA191B5B42)\
+[RONALD360 3D Model](https://poly.cam/capture/DC0F4DF9-0BF0-4654-9EB7-D0CA191B5B42)\
+[RONALD360 1:1 WebVR Model](https://ronald360-showcase.glitch.me)\
+[![Env](Gifs/WED.gif)](https://github.com/Felipegalind0/RONALD360)
+
+
+### [VR Photogrammetry Quest-2-App](https://github.com/UMN-VR/UMN-VR-Quest-2-App)
+An Open Source demonstration of photogrammetry in VR, made in Unity for Quest 2 & WebVR\
+[![Env](Gifs/schene.gif)](https://youtu.be/eQZTAWonZkg)\
+<br/>
+
+### [Insta360 Drone Mount](https://github.com/Felipegalind0/Insta360-Drone-Mount)
+An Open Source Carbon Fiber Nylon Insta360 Drone Mount capable of flying on a A2S at full speed for up to 18 Minutes\
+[![Env](Gifs/A2S_UMN.gif)](https://youtu.be/_vy5MKZzaGs)\
+[News Article](https://www.continuum.umn.edu/2022/02/students-take-library-equipment-to-new-heights/)  &nbsp; &nbsp; [Thingverse Page](https://www.thingiverse.com/thing:5532281)
+
+
+[FRCTeam4230](https://github.com/FRCTeam4230/MainBot-Code-2019)
+
+Designed Washington Elite Dentistry's:
+&nbsp; &nbsp; [vCard](https://bit.ly/3jZF23u) &nbsp; &nbsp; [Google Profile](https://goo.gl/maps/nsrmrbN7LEPHzhZ57) &nbsp; &nbsp; [Website](https://www.washingtonelitedentistry.com)
+
+
+
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=Felipegalind0&show_icons=true)
 
 <section style="border-bottom: 1px solid #e1e4e8; padding: 16px 0;">
@@ -134,73 +202,6 @@ Open Source Projects I've worked on: \
     </div>
 </section>
 
-
-
-
-- 👀 I’m interested in Drones, Photogrammetry, 360 videography, WebXR, Babylon.js, Unity, ROS, Python, SwiftUI,
-Inverse Kinematics & more. 
--  🧑‍💻 Coding is my passion. I don't prefer working with hardware, but I guess I'm ok at that too. 
--  🙃I’m currently living in Minneapolis, and frankly I don't like it, Duluth is better. 
--  ⚡ Fun fact: I dropped a phone from the Golden Gate, sometimes I'm not the brightest :/
--  🇨🇴 I was born in Colombia and speak fluent spanish. 
--  🇺🇸 I live in the states so I speak English, duh.
--  🇩🇪 My sister was learning French, I wanted to learn a third language to match her, and I met this cute girl who spoke german so i decided I was going to learn german and I did.(Sort of) 
-- 👊🏻 If you're like me and you rely on Open Source Hardware and Software(literally everyone in the planet), you shoud make your projects Open Source, and contribute to projects you think are important. 
-- 📖 I was working on a CS degree at UMN but I won't be able to finish that because I've been paying sticker price up unitl now, and the U denies me aid because of my nationality :(
-
--📧 Mail : **felipegalind0@outlook.com**(prefered) \
-(gali070@umn.edu(old), felipht@stanford.edu(old), gali1383@marshallschool.org(old))
-
--👾 Discord : FelipeGalind0#9289
-
-#### 📫 The best way to reach me is to send a discord message or an email. 
-
-I've been working on a CS degree at UMN for the past two years, I went to Marshall School & Stanford Summer Session 2019. I’m interested in Drones, Photogrammetry, WebXR Development in Babylon.js and VR Develoment in general. I designed my own [Robot Dog](https://github.com/UMN-VR/GoldyDogV7), and made a hobby of CADing [360 camera attachments for a Drone](https://github.com/Felipegalind0/Insta360-Drone-Mount), an [Omnidirectional Robot](https://github.com/Felipegalind0/RONALD360), among other things. I'm an early adopter of imersive tech, ever since I got my Gear VR I feel in love with it. 
-
-I have a part 107 licence, [send me an email](mailto:felipegalind0@outlook.com) if you want to work with me! 
-Looking for a Job at a company that aligns with my values and chalenges me to grow my skills. 
-
-## Some of the things I have worked on:
-
-### [GoldyDogV7](https://github.com/umn-vr/goldydogv7):
-An Open Source Boston Dynamics inspired Lightweight Quadruped Robotics Platform with a MPU-6050, LiDAR A1, RP4B, Insta360, 4g connectivity  & an Airtag.\
-[![Env](Gifs/GoldyDogV7wInsta360.gif)](https://poly.cam/capture/2E7A09DC-651E-457D-BC65-34B380F1FFC4)\
-[GoldyDogV7 w/ Insta360 3D Model.](https://poly.cam/capture/2E7A09DC-651E-457D-BC65-34B380F1FFC4)\
-[GoldyDogV7 w/ Insta360 1:1 WebVR Model.](https://goldydogv7.glitch.me)
-<br/>
-
-[![Env](Gifs/GoldyDogV7wInsta360CAD.gif)](https://collaborate.shapr3d.com/v/TyNZZo2E9wQ8442WcQJLR)\
-[GoldyDogV7 w/ Insta360 CAD Model](https://collaborate.shapr3d.com/v/TyNZZo2E9wQ8442WcQJLR)
-<br/>
-
-[![Env](Gifs/GoldyDogV7Stanford0.gif)](https://github.com/umn-vr/goldydogv7)\
-<br/>
-
-### [RONALD360](https://github.com/Felipegalind0/RONALD360)
-An open source, cheap, 4-mecanum-wheel robot capable of swiftly navigating very flat surfaces through teleoperation via a 360 camera which I used to capture the [images for the Google MyBuisness Profile of Marshall School](https://www.google.com/maps/@46.8022282,-92.1112777,3a,74.999992y,80.000000h,70.000000t/data=!3m4!1e1!3m2!1sAF1QipODNp847Mb8b0sOGfNKKHw4TO0llD69eYGQX63N!2e10?shorturl=1)\
-[![Env](Gifs/RONALD360.gif)](https://poly.cam/capture/DC0F4DF9-0BF0-4654-9EB7-D0CA191B5B42)\
-[RONALD360 3D Model](https://poly.cam/capture/DC0F4DF9-0BF0-4654-9EB7-D0CA191B5B42)\
-[RONALD360 1:1 WebVR Model](https://ronald360-showcase.glitch.me)\
-[![Env](Gifs/WED.gif)](https://github.com/Felipegalind0/RONALD360)
-
-
-### [VR Photogrammetry Quest-2-App](https://github.com/UMN-VR/UMN-VR-Quest-2-App)
-An Open Source demonstration of photogrammetry in VR, made in Unity for Quest 2 & WebVR\
-[![Env](Gifs/schene.gif)](https://youtu.be/eQZTAWonZkg)\
-<br/>
-
-### [Insta360 Drone Mount](https://github.com/Felipegalind0/Insta360-Drone-Mount)
-An Open Source Carbon Fiber Nylon Insta360 Drone Mount capable of flying on a A2S at full speed for up to 18 Minutes\
-[![Env](Gifs/A2S_UMN.gif)](https://youtu.be/_vy5MKZzaGs)\
-[News Article](https://www.continuum.umn.edu/2022/02/students-take-library-equipment-to-new-heights/)  &nbsp; &nbsp; [Thingverse Page](https://www.thingiverse.com/thing:5532281)
-
-
-[FRCTeam4230](https://github.com/FRCTeam4230/MainBot-Code-2019)
-
-Designed Washington Elite Dentistry's:
-&nbsp; &nbsp; [vCard](https://bit.ly/3jZF23u) &nbsp; &nbsp; [Google Profile](https://goo.gl/maps/nsrmrbN7LEPHzhZ57) &nbsp; &nbsp; [Website](https://www.washingtonelitedentistry.com)
-
-
 <br/>
 
 <br/>
@@ -215,7 +216,6 @@ Designed Washington Elite Dentistry's:
 
 
 [Code for this website](https://github.com/Felipegalind0/Felipegalind0.github.io)
-[![GitHub
 
 
 <section class="core-section-container my-3 core-section-container--with-border border-b-1 border-solid border-color-border-faint m-0 py-3 pp-section experience">
@@ -228,5 +228,5 @@ Designed Washington Elite Dentistry's:
 </section>
 
 
- Sponsors](https://img.shields.io/github/sponsors/Felipegalind0?label=Sponsors&logoColor=FEC328)](https://github.com/sponsors/Felipegalind0)
+![https://img.shields.io/github/sponsors/Felipegalind0?label=Sponsors&logoColor=FEC328](https://github.com/sponsors/Felipegalind0)
 
