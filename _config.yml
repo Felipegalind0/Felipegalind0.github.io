@@ -34,7 +34,8 @@ external:                  # shows a footer with social links - for available ic
   - {title: BeReal, url: "https://bere.al/felipegalind0"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/felipegalind0/"}
   - {title: YouTube, icon: youtube, url: "https://www.youtube.com/@Felipegalind0"}
-  - {title: VSCO, url: "https://vsco.co/felipegalind0"}  
+  - {title: VSCO, url: "https://vsco.co/felipegalind0"}
+  - {title: Source Code, url: "https://github.com/Felipegalind0/Felipegalind0.github.io"} 
 
 remote_theme: niklasbuschmann/contrast@v2.11
 
