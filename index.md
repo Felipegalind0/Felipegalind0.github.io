@@ -148,7 +148,8 @@ Designed Washington Elite Dentistry's:
     <!-- Marshall School Education -->
     <div style="display: flex; margin-bottom: 16px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px;">
         <a href="https://www.linkedin.com/school/marshall-school/" style="margin-right: 16px;">
-            <img src="https://media.licdn.com/dms/image/C4D0BAQFKtDtey5DQFA/company-logo_100_100/0/1519935205824?e=1699488000&v=beta&t=6HcUbBw_HewB8MRwom5LtRIyMr4pxrpJRDM_HCuc9vY" alt="Marshall School Graphic" width="100" height="100">
+            <img src="https://raw.githubusercontent.com/Felipegalind0/Felipegalind0.github.io/main/img/Marshall.JPG" 
+            alt="Marshall Graphic" width="100" height="100">
         </a>
         <div>
             <h3 style="font-size: 20px;">Marshall School</h3>
@@ -159,7 +160,8 @@ Designed Washington Elite Dentistry's:
     <!-- Stanford University Education -->
     <div style="display: flex; margin-bottom: 16px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px;">
         <a href="https://www.linkedin.com/school/stanford-university/" style="margin-right: 16px;">
-            <img src="https://media.licdn.com/dms/image/C560BAQHr9suxyJBXMw/company-logo_100_100/0/1635534378574?e=1699488000&v=beta&t=1lPRxDassAFHSJSuRxramCVJ91qw0gOTLwlLLPkrOaA" alt="Stanford University Graphic" width="100" height="100">
+            <img src="https://raw.githubusercontent.com/Felipegalind0/Felipegalind0.github.io/main/img/Stanford.JPG" 
+            alt="Stanford Graphic" width="100" height="100">
         </a>
         <div>
             <h3 style="font-size: 20px;">Stanford University</h3>
@@ -174,7 +176,8 @@ Designed Washington Elite Dentistry's:
     
     <!-- Google StreetView Trusted Photographer Certification -->
     <div style="display: flex; margin-bottom: 16px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px;">
-        <img src="https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_100_100/0/1519856215226?e=1699488000&v=beta&t=ElaeDxvk9TO0zkYYol_A2A63nWanKj2L_0qscwlxZkw" alt="Google StreetView Trusted Photographer Graphic" width="100" height="100" style="margin-right: 16px;">
+        <img src="https://raw.githubusercontent.com/Felipegalind0/Felipegalind0.github.io/main/img/StreetView.PNG" 
+            alt="StreetView Graphic" width="100" height="100">
         <div>
             <h3 style="font-size: 20px;">Google StreetView Trusted Photographer</h3>
             <p style="margin: 0;">Google</p>
@@ -184,7 +187,7 @@ Designed Washington Elite Dentistry's:
     
     <!-- Unmanned Aircraft General – Small (UAG) (Part 107) Certification -->
     <div style="display: flex; margin-bottom: 16px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px;">
-        <img src="https://media.licdn.com/dms/image/C510BAQFo7QDO5VSKKg/company-logo_100_100/0/1519855898245?e=1699488000&v=beta&t=5faSDUsBlxr8jC3WecUC2G1x75h8kHC0Dp3tCRZVCMg" alt="Unmanned Aircraft General – Small (UAG) (Part 107) Graphic" width="100" height="100" style="margin-right: 16px;">
+        <img src="https://raw.githubusercontent.com/Felipegalind0/Felipegalind0.github.io/main/img/FAA.JPG" alt="Unmanned Aircraft General – Small (UAG) (Part 107) Graphic" width="100" height="100" style="margin-right: 16px;">
         <div>
             <h3 style="font-size: 20px;">Unmanned Aircraft General – Small (UAG) (Part 107)</h3>
             <p style="margin: 0;">Federal Aviation Administration</p>
@@ -195,7 +198,7 @@ Designed Washington Elite Dentistry's:
     
     <!-- American Society for Photogrammetry and Remote Sensing Member Certification -->
     <div style="display: flex; margin-bottom: 16px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px;">
-        <img src="https://media.licdn.com/dms/image/C560BAQG32kEMq5NrWQ/company-logo_100_100/0/1585574083711?e=1699488000&v=beta&t=wqnvoR8ZvDbnGvYoQRwQdPS0IlZxCr3HnRV4exyxI9g" alt="American Society for Photogrammetry and Remote Sensing Member Graphic" width="100" height="100" style="margin-right: 16px;">
+        <img src="https://raw.githubusercontent.com/Felipegalind0/Felipegalind0.github.io/main/img/ASPRS.JPG" alt="American Society for Photogrammetry and Remote Sensing Member Graphic" width="100" height="100" style="margin-right: 16px;">
         <div>
             <h3 style="font-size: 20px;">American Society for Photogrammetry and Remote Sensing Member</h3>
             <p style="margin: 0;">ASPRS</p>
