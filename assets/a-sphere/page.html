@@ -12,9 +12,15 @@
     <link rel="stylesheet" href="https://cdn.pannellum.org/2.5/pannellum.css"/>
 
     <style>
-        /* Ensure the carousel fills the viewport */
-        .carousel-inner {
-            height: 800px;
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden; /* Prevents scrolling when the image fills the screen */
+        }
+
+        .carousel-inner, .carousel-item {
+            height: 100vh; /* 100% of the viewport height */
         }
     </style>
 </head>
@@ -24,31 +30,31 @@
     <div class="carousel-inner">
         <!-- Image 1 -->
         <div class="carousel-item active">
-            <div id="panorama1" style="width: 100%; height: 800px;"></div>
+            <div id="panorama1" style="width: 100%; height: 100vh;"></div>
         </div>
         <!-- Image 2 -->
         <div class="carousel-item">
-            <div id="panorama2" style="width: 100%; height: 800px;"></div>
+            <div id="panorama2" style="width: 100%; height: 100vh;"></div>
         </div>
         <!-- Image 3 -->
         <div class="carousel-item">
-            <div id="panorama3" style="width: 100%; height: 800px;"></div>
+            <div id="panorama3" style="width: 100%; height: 100vh;"></div>
         </div>
         <!-- Image 4 -->
         <div class="carousel-item">
-            <div id="panorama4" style="width: 100%; height: 800px;"></div>
+            <div id="panorama4" style="width: 100%; height: 100vh;"></div>
         </div>
         <!-- Image 5 -->
         <div class="carousel-item">
-            <div id="panorama5" style="width: 100%; height: 800px;"></div>
+            <div id="panorama5" style="width: 100%; height: 100vh;"></div>
         </div>
         <!-- Image 6 -->
         <div class="carousel-item">
-            <div id="panorama6" style="width: 100%; height: 800px;"></div>
+            <div id="panorama6" style="width: 100%; height: 100vh;"></div>
         </div>
         <!-- Image 7 -->
         <div class="carousel-item">
-            <div id="panorama7" style="width: 100%; height: 800px;"></div>
+            <div id="panorama7" style="width: 100%; height: 100vh;"></div>
         </div>
     </div>
     <!-- Carousel Controls -->
