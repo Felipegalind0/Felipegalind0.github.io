@@ -76,46 +76,60 @@
 <script type="text/javascript" src="https://cdn.pannellum.org/2.5/pannellum.js"></script>
 
 <script>
+    // Initialize the first viewer immediately
     pannellum.viewer('panorama1', {
         "type": "equirectangular",
         "panorama": "dji_export_1640981669414.jpg",
         "autoLoad": true
     });
 
-    pannellum.viewer('panorama2', {
-        "type": "equirectangular",
-        "panorama": "dji_export_1640981672128.jpg",
-        "autoLoad": true
-    });
-
-    pannellum.viewer('panorama3', {
-        "type": "equirectangular",
-        "panorama": "dji_export_1640981674834.jpg",
-        "autoLoad": true
-    });
-
-    pannellum.viewer('panorama4', {
-        "type": "equirectangular",
-        "panorama": "dji_export_1640981676987.jpg",
-        "autoLoad": true
-    });
-
-    pannellum.viewer('panorama5', {
-        "type": "equirectangular",
-        "panorama": "dji_export_1640981681431.jpg",
-        "autoLoad": true
-    });
-
-    pannellum.viewer('panorama6', {
-        "type": "equirectangular",
-        "panorama": "dji_export_1640981684006.jpg",
-        "autoLoad": true
-    });
-
-    pannellum.viewer('panorama7', {
-        "type": "equirectangular",
-        "panorama": "dji_export_1640981688164.jpg",
-        "autoLoad": true
+    // Use Bootstrap's carousel event to initialize Pannellum viewers when the slide becomes active
+    $('#panoramaCarousel').on('slid.bs.carousel', function (e) {
+        var activeDivId = $(e.relatedTarget).find('div').attr('id');
+        switch (activeDivId) {
+            case 'panorama2':
+                pannellum.viewer('panorama2', {
+                    "type": "equirectangular",
+                    "panorama": "dji_export_1640981672128.jpg",
+                    "autoLoad": true
+                });
+                break;
+            case 'panorama3':
+                pannellum.viewer('panorama3', {
+                    "type": "equirectangular",
+                    "panorama": "dji_export_1640981674834.jpg",
+                    "autoLoad": true
+                });
+                break;
+            case 'panorama4':
+                pannellum.viewer('panorama4', {
+                    "type": "equirectangular",
+                    "panorama": "dji_export_1640981676987.jpg",
+                    "autoLoad": true
+                });
+                break;
+            case 'panorama5':
+                pannellum.viewer('panorama5', {
+                    "type": "equirectangular",
+                    "panorama": "dji_export_1640981681431.jpg",
+                    "autoLoad": true
+                });
+                break;
+            case 'panorama6':
+                pannellum.viewer('panorama6', {
+                    "type": "equirectangular",
+                    "panorama": "dji_export_1640981684006.jpg",
+                    "autoLoad": true
+                });
+                break;
+            case 'panorama7':
+                pannellum.viewer('panorama7', {
+                    "type": "equirectangular",
+                    "panorama": "dji_export_1640981688164.jpg",
+                    "autoLoad": true
+                });
+                break;
+        }
     });
 </script>
 
